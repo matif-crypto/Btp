@@ -1,6 +1,7 @@
 # Classification-of-precursor-microRNAs-in-various-groups-of-organisms
 Objective:
 To analyze the variations of different parameters used in creation of ML methods for pre-miRNA prediction, in various classes of organisms.
+
 Data Collection:
 We collected important data of Insects, Aves, Amphibia, Mammalia, Reptilia ,Rumins, Rice and Humans.
 There are 502 data points for Mammalia, 910 for Rice, 1580 for Rodents, 1064 for Rumins, 606 for Sauria, 3855 for Insects, 1381 for Aves and 1916 for human. Total 11814 data points. We split the dataset into two parts train and test. 10% data is used for testing and 90% is used for training.
