@@ -1,0 +1,1506 @@
+>cfa-mir-448 MI0001640
+GCAGGGAGGUUGAACAUCCUGCAUAGUGCUGCCAGGAAAUCCCUAUUUUAUACUAAGGGGGCUGGCUGGUUGCAUAUGUAGGAUGUCCCAUCUCCCCGCCCACUUCAUCG
+((.(((((((.(.((((((((((((.(((.(((((....(((((...........))))).....))))).))))))))))))))).).))))))).))........... (-50.60)
+>cfa-mir-429 MI0001644
+AGCCUGCUGAUGGGCGUCUUACCAGACACGGUUAGAUCUGGGUUCUGGUGUCUAAUACUGUCUGGUAAUGCCGUUCAUCCAUGGC
+.(((....((((((((.(((((((((((..(((((((((((...)))).)))))))..)))))))))).).))))))))...))) (-35.90)
+>cfa-mir-365-2 MI0001647
+AGAGUGUUCAAGGACAGCAAGAAAAAUGAGGGACUUUCAGGGGCAGCUGUGUUUUCUGACUCAGUCAUAAUGCCCCUAAAAAUCCUUAUUGUUCUUGCAGUGUGCAUCGGG
+...........(.((((((((((.((((((((..(((.(((((((((((.(((....))).)))).....))))))).))).)))))))).)))))))..))).)...... (-39.30)
+>cfa-mir-449a MI0001651
+CCGUGUGUGAUGGGUUGGCAGUGUAUUGUUAGCUGGUUGAAUAUAUGAAUGGCAUCAGCUAACAUGCAACUGCUAUCUUAUUGCAUAUACA
+..((((((((((((.(((((((((((.((((((((((...((......))...)))))))))))))).))))))).))))))))))))... (-38.50)
+>cfa-mir-450a MI0001655
+GAAAGAUGCUGAACUGUUUUUGCGAUGUGUUCCUAAUAUGCAGUAUGAACAUAUUGGGAGCAUUUUGCAUGCAUGGUUUUGUAUCAAUAUA
+....(((((.(((((((...(((((.((((((((((((((.........)))))))))))))).)))))...))))))).)))))...... (-35.40)
+>cfa-mir-365-1 MI0001657
+ACCGCAGGGAAAAUGAGGGACUUUUGGGGGCAGAUGUGUUUCCAUUCCACUAUCAUAAUGCCCCUAAAAAUCCUUAUUGCUCUUGCA
+...((((((..((((((((..(((((((((((((((((.........))).)))....))))))))))).))))))))..)))))). (-34.50)
+>cfa-mir-216b MI0007987
+AAAUCUCUGCAGGCAAAUGUGAUGUCACUAAAGAAAUCACACACUUACCCGUAGAGAUUCUG
+.(((((((((.((.((.((((((.((......)).))))))...)).)).)))))))))... (-20.00)
+>cfa-mir-33a MI0007988
+GUGCAUUGUAGUUGCAUUGCAUGUUCUGGCGGUACCCGUGCAAUGUUUCCACAGUGCAUCA
+(((((((((.(..((((((((((....((.....))))))))))))..).))))))))).. (-24.70)
+>cfa-let-7a-1 MI0007989
+UGAGGUAGUAGGUUGUAUAGUUUGGGGCUCUGCCCUGCUCUGGGUAACUAUACAAUCUACUGUCUUUCC
+.(((((((((((((((((((((((((((........))))))...)))))))))))))))))))))... (-30.50)
+>cfa-mir-26a-2 MI0007990
+UUCAAGUAAUCCAGGAUAGGCUGUUUCCGUCUGUGAGGCCUAUUCUUGAUUACUUGUUUC
+..(((((((((.((((((((((..............)))))))))).))))))))).... (-24.70)
+>cfa-mir-1835 MI0007991
+UGCACCCUGAGAGCUGGAGCAGGUCUCUUACGGGAACCAUCUUCAACUCUGUGGAUGCAGG
+((((.((..((((.(((((..((((((....))).)))..))))).))))..)).)))).. (-23.90)
+>cfa-mir-32 MI0007992
+UAUUGCACAUUACUAAGUUGCAUGUUGUCACGGCCUCAAUGCAAUUUAGUGUGUGUGAUAUU
+((((((((((.(((((((((((((..((....))..).)))))))))))))))))))))).. (-24.30)
+>cfa-mir-204 MI0007993
+UUCCCUUUGUCAUCCUAUGCCUGAGAAUAUAUGAAGGAGGCUGGGAAGGCAAAGGGACGU
+.((((((((((.(((((.((((...............))))))))).))))))))))... (-28.50)
+>cfa-mir-31 MI0007994
+AGGCAAGAUGCUGGCAUAGCUGUUGAACUGAGAACCUGCUAUGCCAACAUAUUGCCAUC
+.(((((.(((.(((((((((.(((........)))..))))))))).))).)))))... (-27.70)
+>cfa-mir-101-2 MI0007995
+GGUUAUCAUGGUACCGAUGCUGUAUAUCUGAAAGGUACAGUACUGUGAUAACUGA
+((((((((((((((.(.((((............))))).)))))))))))))).. (-18.90)
+>cfa-mir-371 MI0007996
+ACUCAAAAAAUGGCGGCACUUUCCUACCUAGAACAGAAAGUGCCCCCACAGUUUGAGUGG
+(((((((...(((.(((((((((............))))))))).)))...))))))).. (-24.70)
+>cfa-mir-491 MI0007997
+GUGGGGAACCCUUCCAUGAGGAGUAGAACACUCCUUAUGCAAGAUUCCCUUCUA
+(.((((((..(((.((((((((((.....)))))))))).))).)))))).).. (-23.50)
+>cfa-mir-150 MI0007998
+UCUCCCAACCCUUGUACCAGUGCUGUGCCUCAGUCCCUGGUACAGGCAUGGGGGGCA
+.((((((..(((.(((((((.((((.....))))..))))))))))..))))))... (-28.40)
+>cfa-mir-455 MI0007999
+UAUGUGCCUUUGGACUACAUCGUGGAAGCCAGCACCAUGCAGUCCAUGGGCAUAUACA
+(((((((((.((((((.(((.(((........))).))).)))))).))))))))).. (-28.00)
+>cfa-mir-30a MI0008000
+UGUAAACAUCCUCGACUGGAAGCUGUGAAGCCACAGAUGGGCUUUCAGUCGGAUGUUUGCAGC
+(((((((((((..((((((((((((((....))).....)))))))))))))))))))))).. (-31.80)
+>cfa-mir-30c-2 MI0008001
+UGUAAACAUCCUACACUCUCAGCUGUGGAAAGUAAGAAAGCUGGGAGAAGGCUGUUUACUCU
+.(((((((.(((...(((((((((..............))))))))).))).)))))))... (-24.40)
+>cfa-mir-206 MI0008002
+ACAUGCUUCUUUAUAUCCCCAUACGGAUUACGUUGCUAUGGAAUGUAAGGAAGUGUGUGG
+((((((((((((((((..(((((.(.(......).)))))).)))))))))))))))).. (-22.20)
+>cfa-mir-99b MI0008003
+CACCCGUAGAACCGACCUUGCGGGGCCUUCGCCGCACACAAGCUCGAGUCUGUGGGUCUG
+.(((((((((..(((.((((.(.(((....))).)...)))).)))..)))))))))... (-24.00)
+>cfa-let-7e MI0008004
+UGAGGUAGGAGGUUGUAUAGUUGAGGAGGACACCCACGGAGAUCACUAUACGGCCUCCUAGCUUUCC
+.(((.((((((((((((((((.((...(........).....)))))))))))))))))).)))... (-29.40)
+>cfa-mir-125a MI0008005
+UCCCUGAGACCCUUUAACCUGUGAGGACAUCCAGGGUCACAGGUGAGGUUCUUGGGAGCC
+((((.((((.((((..((((((((((....))....)))))))))))).))))))))... (-25.90)
+>cfa-let-7f MI0008006
+UGAGGUAGUAGAUUGUAUAGUUGUGGGGUAGUGAUUUUACCCUGUUCAGGAGAUAACUAUACAAUCUAUUGCCUUCCC
+.((((((((((((((((((((((((((((((.....))))))).........)))))))))))))))))))))))... (-37.90)
+>cfa-mir-219-1 MI0008007
+UGAUUGUCCAAACGCAAUUCUCGAGUCUCUGGCUCUGGCCGAGAGUUGAGUCUGGACGUCCCG
+.(((.(((((.((.(((((((((.(((.........)))))))))))).)).))))))))... (-26.10)
+>cfa-mir-23b MI0008008
+GUUCCUGGCAUGCUGAUUUGUGACUUAAGAUUAAAAUCACAUUGCCAGGGAUUA
+((((((((((((.((((((..............)))))))).)))))))))).. (-19.90)
+>cfa-mir-27b MI0008009
+AGAGCUUAGCUGAUUGGUGAACAGUGACUGGUUUCCGCUUUGUUCACAGUGGCUAAGUUCUGC
+(((((((((((.((((.(((((((....(((...)))..)))))))))))))))))))))).. (-25.00)
+>cfa-mir-24-1 MI0008010
+GGUGCCUACUGAGCUGAUAUCAGUUCUCAUUGUACACACUGGCUCAGUUCAGCAGGAACAGG
+.((.(((.(((((((((..(((((.............))))).))))))))).))).))... (-20.40)
+>cfa-mir-151 MI0008011
+UCGAGGAGCUCACAGUCUAGUAUGUCUCAGCCCUACUAGACUGAGGCUCCUUGAGG
+((((((((((..((((((((((.((....))..)))))))))).)))))))))).. (-29.70)
+>cfa-mir-30d MI0008012
+UGUAAACAUCCCCGACUGGAAGCUGGAAGACAGCAAAGCUUUCAGUCAGAUGUUUGCUGC
+.(((((((((...(((((((((((............))))))))))).)))))))))... (-26.90)
+>cfa-mir-30b MI0008013
+UGUAAACAUCCUACACUCAGCUGUAGUACAUGGAUUGGCUGGGAGGUGGAUGUUUACUUC
+.((((((((((.((.((((((((............))))))))..))))))))))))... (-24.30)
+>cfa-mir-1836 MI0008014
+UAGGCCAUGGUAGAUAGAGAUGGAGUAACCAUUUCAUCUCAUCUGCACUGCCCAGAC
+..(((....((((((.((((((((((....))))))))))))))))...)))..... (-22.80)
+>cfa-mir-122 MI0008015
+UGGAGUGUGACAAUGGUGUUUGUGUCCAAACUAUCAAACGCCAUUAUCACACUAAAUA
+...(((((((.(((((((((((............))))))))))).)))))))..... (-24.10)
+>cfa-mir-196b MI0008016
+UAGGUAGUUUCCUGUUGUUGGGAUCCACCUUUCUCUCGACAGCACGACACUGCCUUCA
+.(((((((.((.(((((((((((..........))))))))))).)).)))))))... (-24.50)
+>cfa-mir-183 MI0008017
+UAUGGCACUGGUAGAAUUCACUGUGAACAGUCUCGGUCAGUGAAUUACCGAAGGGCCAUAAA
+((((((.((((((..(((((((((((......)))..))))))))))))..)).)))))).. (-21.30)
+>cfa-mir-148a MI0008018
+AAAGUUCUGAGACACUCCGACUCUGAAUAUGAUAGAAGUCAGUGCACUACAGAACUUUGU
+(((((((((((.((((..(((((((.......))).))))))))..)).))))))))).. (-17.50)
+>cfa-mir-129-1 MI0008019
+CUUUUUGCGGUCUGGGCUUGCUGUUCCUCUCAACAGUAGUCAGGAAGCCCUUACCCCAAAAAGUA
+(((((((.(((..((((((.(((..(..((....))..).))).))))))..))).))))))).. (-26.40)
+>cfa-mir-335 MI0008020
+UCAAGAGCAAUAACGAAAAAUGUUUGUCAUAAACCGUUUUUCAUUAUUGCUCCUGACC
+(((.(((((((((.((((((((.((......)).)))))))).))))))))).))).. (-20.90)
+>cfa-mir-29b-1 MI0008021
+AGCUGGUUUCAUAUGGUGGUUUAGAUUUAAAUAGUGAUUGUCUAGCACCAUUUGAAAUCAGUGUU
+.((((((((((.((((((..((((((.............)))))))))))).))))))))))... (-23.80)
+>cfa-mir-29a MI0008022
+ACUGAUUUCUUUUGGUGUUCAGAGUCAAUAUAAUUUUCUAGCACCAUCUGAAAUCGGUUA
+(((((((((...(((((((.((((...........)))))))))))...))))))))).. (-21.30)
+>cfa-mir-30e MI0008023
+UGUAAACAUCCUUGACUGGAAGCUGUAAGGUGCUCAGAGGGGCUUUCAGUCGGAUGUUUACAGC
+(((((((((((..(((((((((((.(...(....)...).)))))))))))))))))))))).. (-30.90)
+>cfa-mir-30c-1 MI0008024
+UGUAAACAUCCUACACUCUCAGCUGUGAGCUCAAGGUGGCUGGGAGAGGGUUGUUUACUCC
+.(((((((.(((...(((((((((....(((...)))))))))))).))).)))))))... (-24.30)
+>cfa-mir-135a-2 MI0008025
+UUAUGGCUUUUUAUUCCUAUGUGAUAGUAAUAAAGUCUCAUGUAGGGAUGGAAGCCAUGAAA
+(((((((((((.((((((((((((.(.(.....).).))))))))))))))))))))))).. (-25.70)
+>cfa-mir-383 MI0008026
+AGAUCAGAAGGUGAUUGUGGCUUUGGGUGGAUAUUAAUCAGCCACAGCACUGCCUGGUCAGA
+.((((((..((((.((((((((...(((........)))))))))))))))..))))))... (-26.60)
+>cfa-mir-486 MI0008027
+UCCUGUACUGAGCUGCCCCGAGCUGAGCGCAGUGAAUGGCCUCGGGGCAGCUCAGUACAGGAUC
+((((((((((((((((((((((....((.((.....)))))))))))))))))))))))))).. (-49.10)
+>cfa-mir-1837-1 MI0008028
+AUGUGAUGGCUCUUCUGAGAAGUACUUCGAUGGCUCCUCUCAGAGGGACUGCGACAUCU
+((((..(((.((((((((((.(..((.....))..).)))))))))).)))..)))).. (-17.70)
+>cfa-mir-130a MI0008029
+GCUCUUUUCACAUUGUGCUACUGUCUGCACCUACCACUAGCAGUGCAAUGUUAAAAGGGCAU
+((((((((.((((((((((.(((..............))).)))))))))).)))))))).. (-22.10)
+>cfa-mir-129-2 MI0008030
+CUUUUUGCGGUCUGGGCUUGCUGUACAUAACUCGAUAGCCGGAAGCCCUUACCCCAAAAAGCA
+(((((((.(((..(((((((((((.(.......))))))...))))))..))).))))))).. (-23.60)
+>cfa-mir-192 MI0008031
+CUGACCUAUGAAUUGACAGCCAGUGCUCUCAUCUCUCCUCUGGCUGCCAAUUCCAUAGGUCACAG
+.((((((((((((((.(((((((................))))))).))))).)))))))))... (-29.60)
+>cfa-mir-128-1 MI0008032
+CGGGGCCGUAGCACUGUCUGAGAGGUUUACAUUUCUCACAGUGAACCGGUCUCUUU
+.(((((((...((((((..(((((((....)))))))))))))...)))))))... (-24.80)
+>cfa-mir-7-1 MI0008033
+UGGAAGACUAGUGAUUUUGUUGUUUUUAGAUAACUAAAUCGACAACAAAUCACAGUCUGCCAUA
+(((.(((((.(((((((.(((((((((((....)))))..)))))))))))))))))).))).. (-24.90)
+>cfa-mir-181c MI0008034
+AACAUUCAACCUGUCGGUGAGUUUGGGCAGCUCAGGCAAACCAUCGACCGUUGAGUGGACC
+..((((((((..(((((((.(((((...........)))))))))))).)))))))).... (-24.20)
+>cfa-mir-181d MI0008035
+AACAUUCAUUGUUGUCGGUGGGUUGUGAGGACGGAGGCCAGACCCACCGAGGGAUGAAUGUCAC
+.(((((((((....((((((((((....((.(....))).))))))))))..)))))))))... (-28.50)
+>cfa-let-7g MI0008036
+UGAGGUAGUAGUUUGUACAGUUUGAGGGUCUAUGAUACCACCCGGUACAGGAGAUAACUGUACAGGCCACUGCCUUGCC
+.((((((((.((((((((((((.....((((.((.((((....))))))..)))))))))))))))).))))))))... (-33.80)
+>cfa-mir-191 MI0008037
+CAACGGAAUCCCAAAAGCAGCUGUUGUCUCCAGAGCAUUCCAGCUGCGCUUGGAUUUCGUUCCC
+.((((((((((.((..(((((((.(((.......)))...)))))))..))))))))))))... (-25.40)
+>cfa-mir-425 MI0008038
+AAUGACACGAUCACUCCCGUUGAGUGGGCACCCAAGAAGCCAUCGGGAAUGUCGUGUCCGCCC
+...(((((((.((.(((((....((((............))))))))).)))))))))..... (-22.70)
+>cfa-mir-23a MI0008039
+GUUCCUGGGGAUGGGAUUUGCUGCCUGUCACAAAUCACAUUGCCAGGGAUUU
+((((((((.((((.((((((.((.....)))))))).)))).)))))))).. (-22.70)
+>cfa-mir-27a MI0008040
+GGGCUUAGCUGCUUGUGAGCAGAGUCCACACCAAGUCGUGUUCACAGUGGCUAAGUUCCG
+(((((((((((((.(((((((((.(........).)).)))))))))))))))))))).. (-27.80)
+>cfa-mir-24-2 MI0008041
+CGUGCCUACUGAGCUGAAACACAGUUGAUUUGUGCAGACUGGCUCAGUUCAGCAGGAACAGG
+.((.(((.(((((((((....(((((..........)))))..))))))))).))).))... (-22.20)
+>cfa-mir-199-1 MI0008042
+CCAGUGUUCAGACUACCUGUUCAGGGGGCUCUGAAUGUGUACAGUAGUCUGCACAUUGGUU
+(((((((.((((((((.((((((((....)))))......))))))))))).))))))).. (-25.70)
+>cfa-mir-708 MI0008043
+AAGGAGCUUACAAUCUAGCUGGGGGUGAACGGCUUGCACAUGAACGCAACUAGACUGUGAGCUUCUAGA
+.(((((((((((.((((((((........))))((((........)))).)))).)))))))))))... (-24.90)
+>cfa-mir-1838 MI0008044
+CCACCAGCUGGCGUUCCCUGGCGUGGGAACGAGAGGCAGGGGCUGCUGGCUGGAGGGA
+((.((((((((((.((((((.(............).)))))).)))))))))).)).. (-31.60)
+>cfa-mir-139 MI0008045
+CUACAGUGCACGUGUCUCCAGUGUGGCUCCGAGGCUGGAGACGCGGCCCUGUUGGAA
+((((((.((.((((((((((((.(.(...).).)))))))))))))).))).))).. (-31.20)
+>cfa-mir-138b MI0008047
+AGCUGGUGUUGUGAAUCAUGCCGACGAGCAGCGCAUCCUCUUACCCGGCUAUUUCACGACACCAGGGUU
+..(((((((((((((....((((..(((.((......)))))...))))...))))))))))))).... (-28.70)
+>cfa-mir-15a MI0008048
+UAGCAGCACAUAAUGGUUUGUGGAUUUUGAAAAGGUGCAGGCCAUAUUGUGCUGCCUCA
+..((((((((..((((((((((.............))))))))))..)))))))).... (-24.80)
+>cfa-mir-16-1 MI0008049
+UAGCAGCACGUAAAUAUUGGCGUUAAGAUUCUAAAAUUAUCUCCAGUAUUAACUGUGCUGCUGAA
+(((((((((((.((((((((.(.(((..........))).).)))))))).)).))))))))).. (-24.40)
+>cfa-mir-17 MI0008050
+CAAAGUGCUUACAGUGCAGGUAGUGAUAUGUGCAUCUACUGCAGUGAAGGCACUUGUAG
+..((((((((.((.(((((.(((((.......)).)))))))).)).)))))))).... (-22.90)
+>cfa-mir-19a MI0008051
+AGUUUUGCAUAGUUGCACUACAAGAAGAAUGUAGUUGUGCAAAUCUAUGCAAAACUGA
+((((((((((((((((((((((.......))))...))))))..)))))))))))).. (-22.90)
+>cfa-mir-20a MI0008052
+UAAAGUGCUUAUAGUGCAGGUAGUGUUUCGUUAUCUACUGCAUUAUGAGCACUUAAAGU
+..(((((((((((((((((.(((...........))))))))))))))))))))..... (-26.50)
+>cfa-mir-19b-1 MI0008054
+GUUUUGCAGGUUUGCAUCCAGCUGUGUGAUAUUCUGCUGUGCAAAUCCAUGCAAAACUG
+((((((((((((((((..((((.............)))))))))).)).)))))))).. (-22.70)
+>cfa-mir-92a-1 MI0008055
+AGGUUGGGAUCGGUUGCAAUGCUGUGUUUCUGUAUGGUAUUGCACUUGUCCCGGCCUGU
+((((((((((.(((.(((((((((((......)))))))))))))).)))))))))).. (-31.00)
+>cfa-mir-138a MI0008056
+AGCUGGUGUUGUGAAUCAGGCCGUUGCCAAUCAGAGAACGGCUACUUCACAACACCAGGGUC
+..(((((((((((((...(((((((..(.....)..)))))))..))))))))))))).... (-31.80)
+>cfa-mir-128-2 MI0008057
+GGGGGCCGAUACACUGUACGAGAGUGAGUAGCAGGUCUCACAGUGAACCGGUCUCUUU
+((((((((...((((((..((((.(........).))))))))))...)))))))).. (-23.40)
+>cfa-mir-26a-1 MI0008058
+UUCAAGUAAUCCAGGAUAGGCUGUGCAGGUCCCAAUGGGCCUAUUCUUGGUUACUUGCACG
+..(((((((((.((((((((((...............)))))))))).))))))))).... (-24.10)
+>cfa-mir-499 MI0008059
+UUAAGACUUGCAGUGAUGUUUAACUCCUCUCCACGUGAACAUCACAGCAAGUCUGUGCU
+...((((((((.((((((((((.............)))))))))).))))))))..... (-23.70)
+>cfa-mir-1-1 MI0008060
+CAUACUUCUUUAUAUGCCCAUAUGGACCUGCUAAGCUAUGGAAUGUAAAGAAGUAUGUA
+(((((((((((((((..((((((((.....)))...))))).))))))))))))))).. (-21.80)
+>cfa-mir-124-3 MI0008061
+GUGUUCACAGCGGACCUUGAUUUAAUGUCCAUACAAUUAAGGCACGCGGUGAAUGCCA
+((((((((.(((..((((((((............))))))))..))).)))))))).. (-22.10)
+>cfa-mir-124-1 MI0008062
+GUGUUCACAGCGGACCUUGAUUUAAAUGUCCAUACAAUUAAGGCACGCGGUGAAUGCCA
+((((((((.(((..((((((((.............))))))))..))).)))))))).. (-22.00)
+>cfa-mir-320 MI0008063
+GCCUUCUCUUCCCGGUUCUUCCCGGAGUCGGGAAAAGCUGGGUUGAGAGGGCGA
+((((((((..(((((((.((((((....)))))).)))))))..)))))))).. (-38.10)
+>cfa-mir-130b MI0008064
+ACUCUUUCCCUGUUGCACUACUGUGGGCCGCUGGGAAGCAGUGCAAUGAUGAAAGGGCAU
+.(((((((..(((((((((...((...((....))..)))))))))))..)))))))... (-19.20)
+>cfa-mir-185 MI0008065
+UGGAGAGAAAGGCAGUUCCUGAUGGUCCCCUCCCCAGGGGCUGGCUUUCCUCUGGU
+.((((.(((((.(((((((((..((......)).))))))))).)))))))))... (-28.40)
+>cfa-mir-1306 MI0008066
+CCACCUCCCCUGCAAACGUCCAGUGAUGCAGAGGUAAUGGACGUUGGCUCUGGUGGUG
+.((((.((...((.((((((((...((......))..)))))))).))...)).)))) (-22.30)
+>cfa-mir-196a-2 MI0008068
+UAGGUAGUUUCAUGUUGUUGGGAUUGAGUUUUGAACUCGGCAACAAGAAACUGCCUGAG
+(((((((((((.((((((((((.((........)))))))))))).))))))))))).. (-28.10)
+>cfa-mir-148b MI0008069
+GAAGUUCUGUUAUACACUCAGGCUGUGGCUCUCUGAAAGUCAGUGCAUCACAGAACUUUGU
+((((((((((.((.((((..((((.............)))))))).)).)))))))))).. (-18.30)
+>cfa-mir-200c MI0008070
+CGUCUUACCCAGCAGUGUUUGGGUGCUGGUUGGGAGUCUCUAAUACUGCCGGGUAAUGAUGGA
+((((((((((.((((((((.(((.(((.......)))))).)))))))).)))))).)))).. (-28.60)
+>cfa-mir-1307 MI0008071
+CGACCGGACCUCGACCGGCUCGUCUAUGUUGCCAAUCGACUCGGCGUGGCGUCGGUCGUG
+(((((((.((.((.((((.(((..............))).)))))).))..))))))).. (-22.00)
+>cfa-mir-107 MI0008072
+AGCUUCUUUACAGUGUUGCCUUGUGGCAUGGAGUUCAAGCAGCAUUGUACAGGGCUAU
+((((.((.(((((((((((.(((.(((.....))))))))))))))))).)))))).. (-21.80)
+>cfa-mir-146b MI0008073
+UGAGAACUGAAUUCCAUAGGCUGUGAGCUUGAGCAAACAGCCUAGGGACUCAGUUCUGGUG
+(.((((((((.((((.((((((((..((....))..)))))))))))).)))))))).).. (-31.90)
+>cfa-mir-124-2 MI0008074
+GUGUUCACAGCGGACCUUGAUUUAAUGUCAUACAAUUAAGGCACGCGGUGAAUGCCA
+((((((((.(((..((((((((...........))))))))..))).)))))))).. (-22.20)
+>cfa-mir-99a-1 MI0008075
+AACCCGUAGAUCCGAUCUUGUGGUGAAGUGGACGGCACAAGCUCGCUUCUAUGGGUCUG
+.(((((((((..(((.((((((.((.......)).)))))).)))..)))))))))... (-27.70)
+>cfa-let-7c MI0008076
+UGAGGUAGUAGGUUGUAUGGUUUAGAGUUACACCCUGGGAGUUAACUGUACAACCUUCUAGCUUUCC
+.(((.(((.(((((((((((((..((.(..((...))..).))))))))))))))).))).)))... (-22.10)
+>cfa-mir-125b-2 MI0008077
+UCCCUGAGACCCUAACUUGUGAGGUAUUUUAGUAACAUCACAAGUCAGGCUCUUGGGACCU
+..(((((((.(((.((((((((.((.........)).)))))))).))).))))))).... (-23.80)
+>cfa-mir-155 MI0008078
+UUAAUGCUAAUCGUGAUAGGGGUUUUUACCUCCGACUGACUCCUACAUGUUAGCAUUAACA
+((((((((((.((((.((((((((.............)))))))))))))))))))))).. (-23.60)
+>cfa-mir-218-1 MI0008079
+UUGUGCUUGAUCUAACCAUGUGGUUGCCAGGUAUGAGUAAAACAUGGUUCCGUCAAGCACCAUG
+..(((((((((..((((((((..((((((....)).)))).))))))))..))))))))).... (-27.80)
+>cfa-mir-574 MI0008080
+UGAGUGUGUGUGUGUGAGUGUGUGUCGCUCCGGGUCCACGCUCAUGCACACACCCACA
+((.(.(((((((((((((((((.(.(.(....)).))))))))))))))))))))).. (-29.30)
+>cfa-mir-9-2 MI0008081
+UCUUUGGUUAUCUAGCUGUAUGAGUGUAUUGGUCUUCAUAAAGCUAGAUAACCGAAAGUA
+..(((((((((((((((.((((((.(.......))))))).))))))))))))))).... (-25.80)
+>cfa-mir-28 MI0008082
+AAGGAGCUCACAGUCUAUUGAGUUGCCUUUCUGACUUUCCCACUAGAUUGUGAGCUCCUGGA
+.((((((((((((((((.((((((........))))....)).))))))))))))))))... (-29.10)
+>cfa-mir-15b MI0008083
+UAGCAGCACAUCAUGGUUUACAUACUACAGUCAAGAUGCGAAUCAUUAUUUGCUGCUCUA
+.(((((((.((.(((((((.(((.((.......))))).))))))).)).)))))))... (-18.00)
+>cfa-mir-16-2 MI0008084
+UAGCAGCACGUAAAUAUUGGCGUAGUGAAAUAAAAAUUAAACACCAAUAUUAUUGUGCUGCUUUA
+.(((((((((..((((((((.((.................)).))))))))..)))))))))... (-21.80)
+>cfa-mir-7-2 MI0008085
+UGGAAGACUAGUGAUUUUGUUGUUGUCUCACUGCAUCCAACAACAAGUCCCAGUCUGCCACA
+(((.(((((.(.(((((.(((((((............))))))))))))).))))).))).. (-19.60)
+>cfa-mir-9-3 MI0008086
+UCUUUGGUUAUCUAGCUGUAUGAGUGCCACAGAGCCGUCAUAAAGCUAGAUAACCGAAAGU
+..(((((((((((((((.(((((..((......))..))))).)))))))))))))))... (-30.00)
+>cfa-mir-1839 MI0008087
+AAGGAAAAGGUAGAUAGAACAGGUCUUGUUAGCAAAAUAAAUUCAAGACCUACUUAAUCUACCAACAGCAAUU
+........(((((((.((..((((((((...............))))))))..)).))))))).......... (-20.50)
+>cfa-mir-26b MI0008088
+UUCAAGUAAUUCAGGAUAGGUUGUGUGCUGUCCAGCCUGUUCUCCAUUACUUGGCU
+.(((((((((..(((((((((((.(......))))))))))))..))))))))).. (-23.10)
+>cfa-mir-1840 MI0008089
+UUAGGGCGCGUCACGUGACGGGCUCGUCGCUCCGCCGUCACGUGACGGGCCUCGGCG
+...((((.(((((((((((((((.....))....))))))))))))).))))..... (-35.00)
+>cfa-mir-664 MI0008090
+UGGGCUAGGAAAAAUGAUUGGAUAAAAAAUAUUAUUCUAUUCAUUUAUCUCCCAGCCUACA
+((((((.(((.((((((.((((.............)))).))))))...))).)))))).. (-18.80)
+>cfa-mir-194 MI0008091
+UGUAACAGCAACUCCAUGUGGAUUGUGUGCCAAUUUCCAGUGGAGAUGCUGUUACUUU
+.(((((((((.((((((.((((...((...))...)))))))))).)))))))))... (-26.90)
+>cfa-mir-143 MI0008092
+GGUGCAGUGCUGCAUCUCUGGUCAGUUGGGAGUCUGAGAUGAAGCACUGUAGCUC
+(.(((((((((.((((((.((((......)).)).)))))).))))))))).).. (-26.10)
+>cfa-mir-378 MI0008093
+CUCCUGACUCCAGGUCCUGUGUGUUACCUCGAAAUAGCACUGGACUUGGAGUCAGAAGGC
+((.((((((((((((((.((((..(........)..)))).)))))))))))))).)).. (-32.60)
+>cfa-mir-146a MI0008094
+UGAGAACUGAAUUCCAUGGGUUGUGUCAGUGUCAGACCUGUGAAGUUCAGUUCUUCAG
+.((((((((((((.((((((((.((.......)))))))))).))))))))))))... (-23.80)
+>cfa-mir-1271 MI0008095
+CUUGGCACCUAGUAAGCACUCAGUAAAUACUUGUUGAGUGCCUGCUAUGUGCCAGGCA
+((((((((.(((((.(((((((((((....))))))))))).))))).)))))))).. (-31.10)
+>cfa-mir-1841 MI0008096
+AGAGGAAAGCUGGACGGCAAGCCUGAAGGGAAGAAGGUGGCUCCGUCCUCUUUCCAAGCC
+...((((((..((((((..((((...............)))))))))).))))))..... (-23.90)
+>cfa-mir-218-2 MI0008097
+UUGUGCUUGAUCUAACCAUGUGGUGGAACGAUGGAAACGGAACAUGGUUCUGUCAAGCACCGCG
+..(((((((((..((((((((..((............))..))))))))..))))))))).... (-24.00)
+>cfa-mir-103-1 MI0008098
+UCGGCUUCUUUACAGUGCUGCCUUGUUGCAUAUGGAUCAAGCAGCAUUGUACAGGGCUAUGA
+..((((.((.(((((((((((.(((.(.(....).).)))))))))))))).)))))).... (-24.30)
+>cfa-mir-328 MI0008099
+AGGGGGGCAGGAAGGGCUCAGGGAGAAAGUGUGUGCAGCCCCUGGCCCUCUCUGCCCUUCCGU
+.((((((((((.(((((.(((((................)))))))))).))))))))))... (-35.80)
+>cfa-mir-140 MI0008100
+CAGUGGUUUUACCCUAUGGUAGGUUACGUCAUGCUGUUCUACCACAGGGUAGAACCACGGA
+..(((((((((((((.(((((((.((.((...)))).))))))).)))))))))))))... (-31.50)
+>cfa-mir-34a MI0008101
+UGGCAGUGUCUUAGCUGGUUGUUGUGAGUAAUAGUGAAGGAAGCAAUCAGCAAGUAUACUGCCCUA
+.(((((((((((.((((((((((..................))))))))))))).))))))))... (-27.20)
+>cfa-mir-99a-2 MI0008102
+AACCCGUAGAUCCGAUCUUGUGGUGAUAGUCCACACAAGCUUGUGUCUAUAGGUAUG
+.(((.((((((.(((.((((((.((......)))))))).))).)))))).)))... (-19.70)
+>cfa-mir-125b-1 MI0008103
+UCCCUGAGACCCUAACUUGUGAUGUUUACCGUUUAAAUCCACGGGUUAGGCUCUUGGGAGC
+((((.((((.(((((((((((..(((((.....))))).))))))))))).)))))))).. (-25.60)
+>cfa-mir-497 MI0008104
+CAGCAGCACACUGUGGUUUGUACGGUACUGUGGCCACGUCCAGACCACACUGUGGUGUUAGGGUGAG
+.((((.((((.(((((((((.(((............))).))))))))).)))).))))........ (-26.50)
+>cfa-mir-195 MI0008105
+UAGCAGCACAGAAAUAUUGGCACUGGGAAGAGAGUCUGCCAAUAUUGGCUGUGCUGCUCUA
+.((((((((((.((((((((((((........)))..)))))))))..))))))))))... (-30.80)
+>cfa-mir-34c MI0008106
+AGGCAGUGUAGUUAGCUGAUUGCUAAUAGUACCAAUCACUAACCACACGGCCAGG
+.(((.((((.(((((.((((((.((....)).))))))))))).)))).)))... (-21.30)
+>cfa-mir-101-1 MI0008107
+AGUUAUCACAGUGCUGAUGCUGUCCAUUCUAAAGGUACAGUACUGUGAUAACUGA
+((((((((((((((((.((((............)))))))))))))))))))).. (-26.80)
+>cfa-mir-186 MI0008108
+CAAAGAAUUCUCCUUUUGGGCUUUCUGAUUUUAUUUUAAGCCCAAAGGUGAAUUUUUUGGG
+((((((((((.(((((.((((((..............))))))))))).)))))))))).. (-25.00)
+>cfa-mir-106b MI0008109
+UAAAGUGCUGACAGUGCAGAUAGCGGUCCUCCGUGCUACCGCACUGUGGGUACUUGCUG
+..(((((((.(((((((.(.(((((........)))))).))))))).))))))).... (-27.90)
+>cfa-mir-93 MI0008110
+CAAAGUGCUGUUCGUGCAGGUAGUGUGAUUACCUGACCUACUGCUGAGCUAGCACUUCCCG
+..((((((((((((.((((.(((.((.(.....).)))))))))))))).))))))).... (-22.90)
+>cfa-mir-25 MI0008111
+AGGCGGAGACUUGGGCAAUUGCUGGACGCUGCCCGCGCAUUGCACUUGUCUCGGUCUGA
+((((.(((((..(.((((((((.((......)).))).))))).)..))))).)))).. (-25.20)
+>cfa-mir-197 MI0008112
+CGGGUAGAGAGGGCAGUGGGAGGUAAGAGCUCUUCACCCUUCACCACCUUCUCCACCCAGC
+.((((.(((((((..(((((.((((((....))).))).)))))..))))))).))))... (-28.00)
+>cfa-mir-193b MI0008113
+CGGGGUUUUGAGGGCGAGAUGAGUUUAUGUUUGAUCCAACUGGCCCACAAAGUCCCGCU
+((((((((((.((((.((.((.(.(((....))).))).)).)))).)))))))))).. (-24.20)
+>cfa-mir-590 MI0008114
+GAGCUUAUUCAUAAAAGUACAGUAUGAUCCAGUAAACCUGUAAUUUUAUGUAUAAGCUAGU
+.(((((((.(((((((.((((((((......)))...))))).))))))).)))))))... (-17.80)
+>cfa-mir-339-1 MI0008115
+UCCCUGUCCUCCAGGAGCUCACUUAUAUCUGGCCGUGAGCUCCUCGAGGCCAGAGCCC
+...(((.((((.((((((((((............)))))))))).)))).)))..... (-28.60)
+>cfa-mir-1842 MI0008116
+UGGCUCUGCGAGGUCAGCUCAAGGUGGGUCUGGAUAUUGAGCAGGCCUGUCAGGGCGUUG
+..((((((..(((((.((((((.((........)).)))))).)))))..)))))).... (-27.30)
+>cfa-mir-137 MI0008117
+GGGUAUUCUUGGGUGGAUAAUACGGAUUACGUUGUUAUUGCUUAAGAAUACGCGU
+(.(((((((((((((.((((((((.....)).))))))))))))))))))).).. (-21.40)
+>cfa-mir-1-2 MI0008118
+CAUACUUCUUUAUGUACCCAUAUGAACAUACAAUGCUAUGGAAUGUAAAGAAGUAUGUA
+(((((((((((((((..(((((..(........)..))))).))))))))))))))).. (-19.00)
+>cfa-mir-92b MI0008119
+AGGGACGGGACGCGGUGCAGUGUUGUUCUCUCCCCCGCCAAUAUUGCACUCGUCCCGGCCUCC
+.(((.(((((((.((((((((((((.............))))))))))))))))))).))).. (-32.30)
+>cfa-mir-350 MI0008120
+AGUGCACGCGCUUUGGGACAGUGAAGAAAAUAAUGUUCACAAAGCCCAUACACUUUU
+((((...(.(((((((((((.............))))).)))))).)...))))... (-13.90)
+>cfa-mir-29b-2 MI0008121
+AGCUGGUUUCACAUGGUGGCUUAGAUUUUUCCAUCUUUGUAUCUAGCACCAUUUGAAAUCAGUGUU
+.((((((((((.((((((.((.((((..............)))))))))))).))))))))))... (-23.60)
+>cfa-mir-29c-1 MI0008122
+ACCGAUUUCUCCUGGUGUUCAGAGUCUGUUUUUGUCUAGCACCAUUUGAAAUCGGUUA
+(((((((((...(((((((.(((...........))))))))))...))))))))).. (-22.40)
+>cfa-mir-1843 MI0008123
+ACUGGAGGUCUCUGUCUGGCUUAGGACAGCUGGCUAAGUCUGAUCGUUCCCCUCCAUACA
+..((((((...(.(((.(((((((.........))))))).))).)....)))))).... (-19.80)
+>cfa-mir-199-2 MI0008124
+CCAGUGUUCAGACUACCUGUUCAGGACAAUGCCGUUGUACAGUAGUCUGCACAUUGGUU
+(((((((.((((((((.(((.((((......))..)).))))))))))).))))))).. (-24.90)
+>cfa-mir-9-1 MI0008125
+UCUUUGGUUAUCUAGCUGUAUGAGUGGUGUGGAGUCUUCAUAAAGCUAGAUAACCGAAAGUA
+..(((((((((((((((.((((((.(.(....).).)))))).))))))))))))))).... (-26.60)
+>cfa-mir-181a-1 MI0008126
+AACAUUCAACGCUGUCGGUGAGUUUGGAAUUAAAAUCAAAACCAUCGACCGUUGAUUGUACC
+.(((.((((((..(((((((.((((.((.......)).))))))))))))))))).)))... (-21.80)
+>cfa-mir-181b-1 MI0008127
+AACAUUCAUUGCUGUCGGUGGGUUGAACUGUGUGGACAAGCUCACUGAACAAUGAAUGCAAC
+..(((((((((...((((((((((....(((....))))))))))))).))))))))).... (-23.30)
+>cfa-mir-342 MI0008128
+GGGUGCUAUCUGUGAUUGAGGGACAUGGCAAAUAGAAUUGUCUCACACAGAAAUCGCACCCGU
+((((((..((((((.....((((((...(.....)...)))))).))))))....)))))).. (-23.40)
+>cfa-mir-345 MI0008129
+UGCUGACUCUUAGUCCAGUGCUCGUGAUGGCUGGUGGGCCCUGAACUAGGGGUCUGGAGG
+(.(.((((((((((.(((.((((((........)))))).))).)))))))))).).).. (-22.90)
+>cfa-mir-493 MI0008130
+UGUACAUGGUAGGCUUUCAUUCAUUCGUUUGCACAUUCGGUGAAGGUCUACUGUGUGCCAG
+.((((((((((((((((((((.................))))))))))))))))))))... (-24.40)
+>cfa-mir-433 MI0008131
+UACGGUGAGCCUGUCAUUAUUCAGAGAGGCUAGAUCCUCUGUGUUGAGAAGGAUCAUGAUGGGCUCCUCGGUGU
+..(((.(((((((((((.(((((.(((((......))))).))........))).))))))))))).))).... (-27.40)
+>cfa-mir-127 MI0008132
+CCUGCUGAAGCUCAGAGGGCUCUGAUUCAGAAAGAUCAUCGGAUCCGUCUGAGCUUGGCU
+...(((.(((((((((.((.((((((((.....))..)))))).)).)))))))))))). (-28.70)
+>cfa-mir-136 MI0008133
+ACUCCAUUUGUUUUGAUGAUGGAUUCUUACGCUCCAUCAUCGUCUCAAAUGAGUCU
+((((.(((((...((((((((((.........))))))))))...))))))))).. (-20.30)
+>cfa-mir-379 MI0008134
+UGGUAGACUAUGGAACGUAGGCUUUGUGAUUUUUGACCUAUGUAACAUGGUCCACUAAC
+((((.(((((((..((((((((............).)))))))..))))))).)))).. (-21.90)
+>cfa-mir-411 MI0008135
+AUAGUAGACCGUAUAGCGUACGCUUUAUCUGUGACGUAUGUAACACGGUCCACUAACC
+.((((.((((((...((((((((.........).)))))))...)))))).))))... (-20.30)
+>cfa-mir-380 MI0008136
+AUGGUUGACCAUAGAACAUGCGCUAGCUCUAUGUCGUAUGUAAUAUGGUCCACGUCU
+...((.(((((((..(((((((.((......)).)))))))..))))))).)).... (-20.40)
+>cfa-mir-323 MI0008137
+AGGUGGUCCGUGGCGCGUUCGCUUUAUUUAUGGCGCACAUUACACGGUCGACCUCU
+((((.(.(((((..(.((.((((........)))).)).)..))))).).)))).. (-22.30)
+>cfa-mir-329a MI0008138
+AGAGGUUUUCUGGGUUUCUGUUUCUUUCAUGAGGAUGAAACACACCCAGUUAACCUCUUU
+(((((((..((((((...((((((.(((....))).)))))).))))))..))))))).. (-28.00)
+>cfa-mir-543 MI0008139
+GAAGUUGCCCGUGUUUUUUUCGCUUUAUUUGUGACGAAACAUUCGCGGUGCACUUCUU
+(((((.(((((((..(.((((((.........).))))).)..))))).))))))).. (-19.60)
+>cfa-mir-495 MI0008140
+GAAGUUGCCCGUGUUAUUUUCGCUUGAUACGUGCCGAAACAAACAUGGUGCACUUCUU
+(((((.(((((((((..((((((.........).)))))..))))))).))))))).. (-20.60)
+>cfa-mir-376a-3 MI0008141
+GGUGGAUGUUCCUUCUAUGUUUACGGGAUUUAUAGUUAAUCAUAGAGGAAAAUCCACGU
+.((((((.(((((.(((((...((..........))....)))))))))).)))))).. (-20.50)
+>cfa-mir-376a-2 MI0008142
+GUAGAUUUUCCUUCUAUGAUUACGUGUUUGAUGGUUAAUCAUAGAGGAAAAUCCACGU
+((.(((((((((.((((((((((((.....)))..)))))))))))))))))).)).. (-22.90)
+>cfa-mir-376a-1 MI0008143
+GUAGAUUCUCCUUCUAUGAGUACAUUAUUUAUGAUUAAUCAUAGAGGAAAAUCCACGU
+((.((((.((((.((((((...(((.....))).....)))))))))).)))).)).. (-15.80)
+>cfa-mir-487b MI0008144
+GUGGUUAUCCCUGUCCUGUUCGUUUUACUCAUGUCGAAUCGUACAGGGUCAUCCACUU
+((((....((((((.(.(((((............))))).).))))))....)))).. (-20.30)
+>cfa-mir-382 MI0008145
+AAGUUGUUCGUGGUGGAUUCGCUUUACUUAUGACGAAUCAUUCACGGACAACACUUU
+..(((((((((((..(((((((.........).))))))..)))))))))))..... (-23.10)
+>cfa-mir-485 MI0008146
+AGAGGCUGGCCGUGAUGAAUUCGAUUCAUCAAAGCGAGUCAUACACGGCUCUCCUCUCU
+(((((..(((((((((((.((((...........)))))))).)))))))..))))).. (-25.00)
+>cfa-mir-409 MI0008147
+AGGUUACCCGAGCAACUUUGCAUCUGGACGACGAAUGUUGCUCGUUGAACCCCU
+.((((...(((((((((((((........).)))).))))))))...))))... (-18.50)
+>cfa-mir-369 MI0008148
+AGUUCGACCGUGUUAUAUUCGCUUUAUUGACUUCGAAUAAUACAUGGUUGGUCUUU
+((.((((((((((..((((((............))))))..)))))))))).)).. (-16.40)
+>cfa-mir-410 MI0008149
+AGGUUGUCUGUGAUGAGUUCGCUUUAUUAAUGCCGAAUAUAACACAGAUGGCCUGU
+((((((((((((.((.((((((.........).))))).)).)))))))))))).. (-20.90)
+>cfa-mir-219-2 MI0008150
+UGAUUGUCCAAACGCAAUUCUUGUACGAGUCUGCGGCCAACCGAGAAUUGUGGCUGGACAUCUGU
+.(((.(((((..(((((((((((...(.(((...))))...)))))))))))..))))))))... (-25.20)
+>cfa-mir-199-3 MI0008151
+CCAGUGUUUAGACUAUCUGUUCAGGACUCCCAAAUUGUACAGUAGUCUGCACAUUGGUU
+(((((((.(((((((.((((.(((..........))).))))))))))).))))))).. (-22.30)
+>cfa-mir-181a-2 MI0008152
+AACAUUCAACGCUGUCGGUGAGUUUGGGAUUUGAAAAAACCACCGACCGUUGACUGUACC
+.(((.((((((..(((((((.((((...........))))))))))))))))).)))... (-23.10)
+>cfa-mir-181b-2 MI0008153
+AACAUUCAUUGCUGUCGGUGGGUUUGAGUCUGAAUCAACUCACUGAUCAAUGAAUGCAAA
+..(((((((((..(((((((((((.((.......)))))))))))))))))))))).... (-24.70)
+>cfa-mir-126 MI0008154
+CAUUAUUACUUUUGGUACGCGCUGUGACACUUCAAACUCGUACCGUGAGUAAUAAUGCG
+(((((((((((.(((((((.....(((....)))....))))))).))))))))))).. (-22.10)
+>cfa-mir-212 MI0008155
+ACCUUGGCUCUAGACUGCUUACUGCCCGGGCCGCCCUCAGUAACAGUCUCCAGUCACGGCCA
+.((.(((((..((((((.((((((...(((...))).))))))))))))..))))).))... (-25.70)
+>cfa-mir-132 MI0008156
+AACCGUGGCUUUCGAUUGUUACUGUGGGAACCGGAGGUAACAGUCUACAGCCAUGGUCGC
+.(((((((((...((((((((((.(((...)))..))))))))))...)))))))))... (-28.60)
+>cfa-mir-22 MI0008157
+AGUUCUUCAGUGGCAAGCUUUAUGUCCUGACCCAGCUAAAGCUGCCAGUUGAAGAACUGU
+(((((((((((((((.((((((.((.........))))))))))))).)))))))))).. (-25.90)
+>cfa-mir-144 MI0008158
+AGGAUAUCAUCAUAUACUGUAAGUUUGCGACAAGAUACUACAGUAUAGAUGAUGUACUAG
+.((((((((((.(((((((((.((((......))))..))))))))))))))))).)).. (-20.30)
+>cfa-mir-193a MI0008159
+UGGGUCUUUGCGGGCGAGAUGAGGGUGUCGGUUCAACUGGCCUACAAAGUCCCAGU
+((((.(((((.((((.((.((((........)))).)).)))).))))).)))).. (-26.20)
+>cfa-mir-142 MI0008160
+CCCAUAAAGUAGAAAGCACUACUAACAGCACUGGAGGGUGUAGUGUUUCCUACUUUAUGGAUG
+.(((((((((((.(((((((((...(..(....)..)..))))))))).)))))))))))... (-26.90)
+>cfa-mir-10a MI0008161
+UACCCUGUAGAUCCGAAUUUGUGUAAGGAAUUUUGUGGUCACAAAUUCGUAUCUAGGGGAAUA
+...(((.(((((.((((((((((................)))))))))).))))).))).... (-22.90)
+>cfa-mir-152 MI0008162
+AGGUUCUGUGAUACACUCCGACUCGGGCUCUGGAGCAGUCAGUGCAUGACAGAACUUGG
+(((((((((.((.((((..((((...(((....))))))))))).)).))))))))).. (-21.60)
+>cfa-mir-338 MI0008163
+AACAAUAUCCUGGUGCUGAGUGAUGACACAUGCAACUCCAGCAUCAGUGAUUUUGUUGA
+(((((.(((((((((((((((.............))).))))))))).))).))))).. (-22.20)
+>cfa-mir-1844 MI0008164
+AGGACUACGGACGGGCUGAGCUUUCAGGCUCCCCACAGCUCUGCCCGACUCUGGUUCGCA
+.((((((.((.(((((.(((((....((....))..))))).))))).)).))))))... (-25.40)
+>cfa-mir-21 MI0008165
+UAGCUUAUCAGACUGAUGUUGACUGUUGAAUCUCAUGGCAACAGCAGUCGAUGGGCUGUC
+(((((((((.(((((.(((((.((((.((...))))))))))).)))))))))))))).. (-24.80)
+>cfa-mir-423a MI0008166
+UGAGGGGCAGAGAGCGAGACUUUUCUAUUUUCCAAAAGCUCGGUCUGAGGCCCCUCAGU
+((((((((..(((.((((.(((((.........))))))))).)))...)))))))).. (-29.00)
+>cfa-mir-652 MI0008167
+ACAACCCUAGGAGAGGGUGCCAUUCACAUAGACUAUAAUUGAAUGGCGCCACUAGGGUUGUGC
+((((((((((.....(((((((((((..((.....))..))))))))))).)))))))))).. (-32.00)
+>cfa-mir-224 MI0008168
+CAAGUCACUAGUGGUUCCGUUUAGUAGAUGAUUAUGCAUUGUUUCAAAAUGGUGCCCUAGUGACUGCAA
+..(((((((((.(((.((((((.(.(((((((.....)))))))).)))))).)))))))))))).... (-26.80)
+>cfa-mir-424 MI0008169
+AGCAGCAAUUCAUGUUUUGAAGUGCUUUAAAUGGUUCAAAACGUGAGGCGCUGCUAU
+((((((..((((((((((((...(((......)))))))))))))))..)))))).. (-24.60)
+>cfa-mir-503 MI0008170
+UAGCAGCGGGAACAGUACUGCAGUGGGCAAUCGGUGUUCUGGAGUAUUGUUUCUGCUGCCCGG
+..(((((((((((((((((.(((.(.((.....)).).))).))))))))))))))))).... (-34.90)
+>cfa-mir-542 MI0008171
+UCGGGGAUCAUCAUGUCACGAGAUACCACUGUGCACUUGUGACAGAUUGAUAACUGAAA
+((((..((((...(((((((((.(((....)))..)))))))))...))))..)))).. (-22.00)
+>cfa-mir-450b MI0008172
+UUUUGCAAUAUGUUCCUGAAUAUGUAAUAUAAGUGUAUUGGGAACAUUUUGCAUCCAU
+...(((((.((((((((((((((.........)))).)))))))))).)))))..... (-17.80)
+>cfa-mir-106a MI0008173
+AAAGUGCUUACAGUGCAGGUAGCAUUCUGCGAUCUACUGCAAUGCAAGCACUUCUUA
+.((((((((.((.(((((...(((...)))......))))).)).)))))))).... (-20.00)
+>cfa-mir-19b-2 MI0008174
+GUUUUGCAGGUUUGCAUUUCAGCGUACUUGUGCAUAUAGGGCUGUGCAAAUCCAUGCAAAACUG
+((((((((((((((((...((((...(((((....))))))))))))))).)).)))))))).. (-23.60)
+>cfa-mir-92a-2 MI0008175
+GGGUGGGGAUUUGUGGCAUUACUUGUGUUCCAUAUAAAGUAUUGCACUUGUCCCGGCCUGU
+((((.(((((..(((.((.(((((((((...)))).))))).)))))..))))).)))).. (-25.10)
+>cfa-mir-363 MI0008176
+UCGGGUGGAUCACGAUGCAAUUUUGAUGAGUAUAAUAGGAGAAAAAUUGCACGGUAUCCAUCUGUAA
+.(((((((((..((.(((((((((..................)))))))))))..)))))))))... (-23.10)
+>cfa-mir-361 MI0008177
+UUAUCAGAAUCUCCAGGGGUACUUAAAAUUUGAAAAAGUCCCCCAGGUGUGAUUCUGAUUUGC
+..(((((((((.((.((((.((((...........)))).)))).))...))))))))).... (-22.40)
+>cfa-mir-384 MI0008178
+UGUAAACAAUUCCUAGGCAAUGUGUAUAAUGUUUGUAAGUCAUUCCUAGAAAUUGUUCACAAU
+(((.(((((((.(((((.((((..(((((...)))))...))))))))).))))))).))).. (-16.80)
+>cfa-mir-374a MI0008179
+UUAUAAUACAACCUGAUAAGUGUUGUAGCACUUACCAGGUUGUAUUGUAAUU
+(((((((((((((((.(((((((....))))))).))))))))))))))).. (-27.40)
+>cfa-mir-374b MI0008180
+AUAUAAUACAACCUGCUAAGUGUCCUAGCACUUAUCAGGUUGUAUUAUCAUU
+..(((((((((((((.(((((((....))))))).))))))))))))).... (-25.10)
+>cfa-mir-421 MI0008181
+CUCAUUAAAUGUUUGUUGAAUGAAAAAAUGAAUCAUCAACAGACAUUAAUUGGGCG
+((((...((((((((((((.(((.........)))))))))))))))...)))).. (-16.90)
+>cfa-mir-98 MI0008182
+UGAGGUAGUAAGUUGUAUUGUUGUGGGGUAGGGAUUUUAGGCCCCAAUUAGAAGAUAACUAUACAACUUACUACUUUCCC
+.(((((((((((((((((.((((((((((...........)))))).........)))).)))))))))))))))))... (-31.50)
+>cfa-mir-221 MI0008183
+ACCUGGCAUACAAUGUAGAUUUCUGUGUUUGUUGGGCAACAGCUACAUUGUCUGCUGGGUUU
+((((((((.(((((((((....((((((((...)))).))))))))))))).)))))))).. (-25.30)
+>cfa-mir-532 MI0008184
+CAUGCCUUGAGUGUAGGACCGUUGGUAUCUUAAUUACCCUCCCACACCCAAGGCUUGCA
+((.((((((.((((.(((.....((((.......)))).))).)))).)))))).)).. (-21.10)
+>cfa-mir-500 MI0008185
+AAUCCUUGCUACCUGGGUGAGAGUGCUUUCUGAAUGCAAUGCACCUGGGCAAGGAUUCU
+(((((((((...(((((((....(((.........)))...)))))))))))))))).. (-23.50)
+>cfa-mir-660 MI0008186
+UACCCAUUGCAUAUCGGAGUUGUGAAUUCUCAAAGCACCUCCUGUGUGCAUGGAUUACA
+...((((.((((((.((((.(((...........))).)))).))))))))))...... (-19.90)
+>cfa-mir-502 MI0008187
+AAUCCUUGCUAUCUGGGUGCUAGUGCUGUCUCAAUGCAAUGCACCUGGGCAAGGAUUCA
+(((((((((...((((((((...(((.........)))..))))))))))))))))).. (-25.70)
+>cfa-mir-676 MI0008188
+CUCUUCAAUCUCAGGACUCGCAGAAUUAAUGGAAUGCCGUCCUAAGGUUGGUGAGUU
+(((.(((((((.(((((..(((............))).))))).))))))).))).. (-19.30)
+>cfa-let-7j MI0008189
+UGAGGUAGUAGAGUGCAGUAGUUAUAAAAGGAAUCUCUGGAGCUAGAUUGCUGUACUUCAUACCUGCU
+..(((((...(((((((((((((......(((...))).......)))))))))))))..)))))... (-21.60)
+>cfa-mir-20b MI0010322
+GUACCAAAGUGCUCACAGUGCAGGUAGUCUGGGCUUUUCUCUACUGUAGUGUGGGCACUUCCGGUAAC
+.((((.(((((((((((.(((((.(((.............)))))))).)))))))))))..)))).. (-29.80)
+>cfa-mir-18b MI0010323
+CCUGUGUUAAGGUGCAUCUAGUGCAGUUAGUGAAGCCGCUUAGAACCUACUGCCCUAAAUGCCCCUUCCGGCACAGG
+((((((((((((.((((.(((.(((((..((.............))..))))).))).)))).))))..)))))))) (-29.80)
+>cfa-mir-18a MI0010324
+GUGCUUUUUGUUCUAAGGUGCAUCUAGUGCAGAUAGUGAAGUAGAUUAGCAUCUACUGCCCUAAGUGCUCCUUCUGGCAUAAGAAGUUAUGU
+..(((((((((.((((((.((((.(((.((((.(((((..(.....)..)).))))))).))).)))).)))..))).)))))))))..... (-26.90)
+>cfa-mir-133c MI0010325
+AAUGCUUUGCUAAAGCUGGUAAAAUGGAACCAAAUCAACUGUUCAAUGGAUUUGGUCCCCUUCAACCAGCUGUAGCUGUGCAUUGA
+(((((...((((.(((((((..((.((.((((((((............)))))))).)).))..))))))).))))...))))).. (-34.10)
+>cfa-mir-133a MI0010326
+CAAUGCUUUGCUAGAGCUGGUAAAAUGGAACCAAAUCGCCUCUUCAAUGGAUUUGGUCCCCUUCAACCAGCUGUAGCUAUGCAUUGA
+((((((...((((.(((((((..((.((.((((((((............)))))))).)).))..))))))).))))...)))))). (-40.70)
+>cfa-mir-133b MI0010327
+CCCUGCUCUGGCUGGUCAAACGGAACCAAGUCCGUCUUCCUGAGAGGUUUGGUCCCCUUCAACCAGCUACAGCAGGGCUGGCAA
+(((((((.((((((((..((.((.((((((.((.((((...)))))))))))).)).))..)))))))).)))))))....... (-40.20)
+>cfa-let-7a-2 MI0010328
+CUGCAUGUUCCCAGGUUGAGGUAGUAGGUUGUAUAGUUUAGAAUUACAUCAAGGGAGAUAACUGUACAGCCUCCUAGCUUUCCUUGGGUCUUGCAC
+.((((....((((((..(((.(((.(((((((((((((.........(((......)))))))))))))))).))).)))..))))))...)))). (-37.60)
+>cfa-let-7b MI0010329
+CGGGGUGAGGUAGUAGGUUGUGUGGUUUCAGGGCAGUGAUGUUGCCCCCUCGGAAGAUAACUAUACAACCUACUGCCUUCCCCGA
+(((((.(((((((((((((((((((((((.((((((.....))))))(....)..)).)))))))))))))))))))))))))). (-49.80)
+>cfa-mir-7-3 MI0010330
+GAGUGGUUGUGGUCUAGUGCUGUGUGGAAGACUAGUGAUUUUGUUGUUCUGAUGUACUAUGACAACAAGUCACAGCUUCCUCAUAGCG
+.(.(((.......))).)((((((.(((((.((.(((((((.((((((.((......)).)))))))))))))))))))).)))))). (-31.20)
+>cfa-mir-10b MI0010331
+GUAACGUUGUCUAUAUAUACCCUGUAGAACCGAAUUUGUGUGGUAUCCACAUAGUCACAGAUUCGAUUCUAGGGGAAUAUAUGGUCGAUGCAAAAACUUCA
+....(((((.((((((((.((((.(((((.((((((((((.(.(((....))).))))))))))).))))))))).)))))))).)))))........... (-36.40)
+>cfa-mir-34b MI0010332
+GUGCUCGGUUUGUAGGCAGUGUAAUUAGCUGAUUGUCCUCUGCUGCUUACAAUCACUAACUCCACUGCCAUCAAAACAAGGCAC
+(((((..((((...(((((((...((((.(((((((...(....)...)))))))))))...)))))))....))))..))))) (-30.20)
+>cfa-mir-135a-1 MI0010333
+AGGCCUCGCUGUUCUCUAUGGCUUUUUAUUCCUAUGUGAUUUUACUGCUCACUCAUAUAGGGAUUGGAGCCGUGGCGUACGGCGGGG
+...(((((((((.(.((((((((((..((((((((((((.............)))))))))))).)))))))))).).))))))))) (-43.00)
+>cfa-mir-135b MI0010334
+GCUCUGCUGUGGCCUAUGGCUUUUCAUUCCUAUGUGAUUGCUGUUUCUAAUUCAUGUAGGGCUAAAAGCCAUGGGCUACAGUGAGGGGC
+((((((((((((((((((((((((...((((((((((..............))))))))))..)))))))))))))))))))..))))) (-47.30)
+>cfa-mir-153 MI0010335
+AGCGGUGGCCAGUGUCAUUUUUGUGAUGUUGCAGCUAGUAAUAUGAGCCCAGUUGCAUAGUCACAAAAGUGAUCAUUGGA
+........(((((((((((((((((((..(((((((.((.......))..)))))))..))))))))))))).)))))). (-35.10)
+>cfa-mir-182 MI0010336
+GCUUGCCUCCCGCCGUUUUUGGCAAUGGUAGAACUCACACUGGUGAGGUAAUGGGAUCCGGUGGUUCUAGACUUGCCAACUAUGGUGCGAGG
+.....((((.((((((..(((((((...((((((...((((((..............))))))))))))...)))))))..)))))).)))) (-37.60)
+>cfa-mir-184 MI0010337
+CCCCUUAUCACUUUUCCAGCCAGCUUUGUGACUCUAAGUGUUGGACGGAGAACUGAUAAGGGUAGGUG
+.(((((((((.((((((..(((((((((......)))).)))))..)))))).)))))))))...... (-28.00)
+>cfa-mir-187 MI0010338
+CUCGGGCUACAACACGGGACCCGGGCGCUGCUCCGACCCCUCGUGUCUUGUGUUGCAGCCGGAGGGAC
+(((.((((.((((((((((((.(((((......)).)))...).))))))))))).)))).))).... (-34.00)
+>cfa-mir-202 MI0010339
+GUUCCUUUUUCCUAUGCAUAUACUUCUUUGAGGGUCUGGCCUGAAGAGGUGUAAGGCAUGGGAAAAGGGGG
+..(((((((((((((((.(((((((((((.(((......))))))))))))))..))))))))))))))). (-38.90)
+>cfa-mir-205 MI0010340
+CUCUUGUCCUUCAUUCCACCGGAGUCUGUCUCGUACCCAACCAGAUUUCAGUGGAGUGAAGUUCAGGAG
+((((((..(((((((((((.((((((((.............)))))))).)))))))))))..)))))) (-33.70)
+>cfa-mir-210 MI0010341
+CCUCCAGGCGCAGGGCAGCCACUGCCCAUCGCACACUGCGCUGCUCCGGACCCACUGUGCGUGUGACAGCGGCUGAUCUGUCCCUGGGCAGCGCGACC
+.......(((..((((((...))))))..)))....((((((((((.((((((.((((.......)))).)).......))))..))))))))))... (-43.80)
+>cfa-mir-214 MI0010342
+GGCCUGGCUGGACGGAGUUGUCAUGUGUCUGCCUGUCUACACUUGCUGUGCAGAACAUCCGCUCACCUGUACAGCAGGCACAGACAGGCAGUCACAUGACAACCCAGCCU
+.....((((((.....(((((((((((.((((((((((...((((((((((((.............))))))))))))...)))))))))).))))))))))))))))). (-67.50)
+>cfa-mir-215 MI0010343
+UGUACAGGAAAAUGACCUACGAAUUGAUAGACAAUUUGGCUAAGUUUGUCUGUCAUUUUUGUAGGCCAAUAUUCUGUAU
+.((((((((...((.((((((((.((((((((((.((.....)).))))))))))..)))))))).))...)))))))) (-31.10)
+>cfa-mir-216a MI0010344
+GAUGGCUGUGAGUUGGCUUAAUCUCAGCUGGCAACUGUGAGAUGUUCAUACAAUCCCCCACAGUGGUCUCUGGGAUUAUGCUAAACAGAGCAAUAUCCUUGCCCU
+(((((((.((..(((((.(((((((((..(((.((((((.(((((....)).)))...)))))).))).))))))))).))))).)).)))..))))........ (-36.40)
+>cfa-mir-217 MI0010345
+UUGAUGUCGCAGAUACUGCAUCAGGAACUGAUUGGAUAAGAAUGGGUCACCAUCAGUUCCUAAUGCAUUGCCUUCAGCAUCU
+..(((((.(.((.((.(((((.((((((((((.((((........))).).)))))))))).))))).)).)).).))))). (-29.40)
+>cfa-mir-222 MI0010346
+CCCUCAAUGGCUCAGUAGCCAGUGUAGAUCCUGUCUUUUGUAAUCAGUAGCUACAUCUGGCUACUGGGUCUCUGAUGGCAUCUUCUAGCU
+((.(((..(((((((((((((((((((...(((...........)))...))))).))))))))))))))..))).))............ (-38.40)
+>cfa-mir-223 MI0010347
+CCUGGCCUCCUGCAGUGCCACACUCCGUGUAUUUGACAAGCUGAGUUAGACACUCCAUGUGGAAGAGUGUCAGUUUGUCAAAUACCCCAAGUGCGGCACAUGC
+...........((((((((.((((..(.((((((((((((((......(((((((.........))))))))))))))))))))).)..)))).))))).))) (-43.60)
+>cfa-mir-301a MI0010348
+CUGCUAACGAAUGCUCUGACUUUAUUGCACUACUGUACUUUACAGCUAGCAGUGCAAUAGUAUUGUCAAAGCAUCUGAAAGCAG
+(((((..((.(((((.((((.((((((((((.((((........)).)).))))))))))....)))).))))).))..))))) (-28.60)
+>cfa-mir-301b MI0010349
+CCCAGGUGCUCUGACGAGGUUGCACUACUGUGCUCUGAGAAGCAGUGCAAUGAUAUUGUCAAAGCAUCGGGGACCA
+(((.((((((.((((((.((((((((.((...........)).))))))))....)))))).)))))).))).... (-30.00)
+>cfa-mir-302a MI0010350
+CCACCACUUAAACGUGGAUGUACUUGCUUUGAAACUCAAAAAGUAAGUGCUUCCAUGUUUUAGUGAUGG
+(((.((((.(((((((((.(((((((((((.........))))))))))).))))))))).)))).))) (-33.90)
+>cfa-mir-302b MI0010351
+CUCCCUUUAACUUUAACAUGGAAGUACUUUCUUUGACUUUCAAAAUAGUAAGUGCUUCCAUGUUUUAGUAGAAGU
+....((((.(((..(((((((((((((((.((((((...))))...)).)))))))))))))))..))).)))). (-28.60)
+>cfa-mir-302c MI0010352
+CCUUUGCUUUAACAUGGGGGUACCUGCUGUGUAAAACAAAAGUAAGUGCUUCCAUGUUUCAGUGGAGG
+((((((((..(((((((((((((.((((.(((...)))..)))).)))))))))))))..)))))))) (-31.30)
+>cfa-mir-302d MI0010353
+CCUCUACUUUAACAUGGAGGCACUUGCUGUGACAUGAUAAAAAUAAGUGCUUCCAUGUUUUAGUGUGGUG
+((..((((..((((((((((((((((.(((......)))....))))))))))))))))..)))).)).. (-27.70)
+>cfa-mir-367 MI0010354
+CCAUGACUGUUGCUAAUAUGCAACUCUGUUCAAUACAAAUUGGAAUUGCACUUUAGCAAUGGUGAUGG
+((((.(((((((((((..(((((.((((............)))).)))))..))))))))))).)))) (-27.00)
+>cfa-mir-489 MI0010355
+GUGGCAGCUUGGUGGCCGUAUGUGUGGCGCCAUUUACUUGAACCUUUAGGAGUGACAUCACAUAUACGGCGGCUAAACUGCUAC
+(((((((.(((((.(((((((((((((.(.((((..(((((....))))))))).).))))))))))))).))))).))))))) (-43.30)
+>cfa-mir-96 MI0010356
+CUGCUUGGCCGAUUUUGGCACUAGCACAUUUUUGCUUGUGUCUCUCCGCUCUGAGCAAUCAUGUGCAGUGCCAAUAUGGGAAAAGCGGG
+((((((..((.((.((((((((.((((((..(((((((((......)))...))))))..)))))))))))))).)).))..)))))). (-45.00)
+>cfa-mir-103-2 MI0010357
+UUGUGCUUUCAGCUUCUUUACAGUGCUGCCUUGUAGCAUUCAGGUCAAGCAGCAUUGUACAGGGCUAUGAAAGAACC
+..((.(((((((((.((.(((((((((((.(((.(.(.....).))))))))))))))).)))))..)))))).)). (-28.10)
+>cfa-mir-33b MI0010358
+GCGGGCGGCCCCGCGGUGCAUUGCUGUUGCAUUGCACGUGAGUGACGCGGGUGCAGUGCCUCGGCAGUGCAGCCCGGAGCCGGCCCCUGGCACC
+(((((((((.(((.((((((((((((..(((((((((.((.......)).)))))))))..)))))))))).))))).))).))))...))... (-57.60)
+>cfa-mir-145 MI0010359
+UGUCCUCACGGUCCAGUUUUCCCAGGAAUCCCUUAGAUGCUAAGAUGGGGAUUCCUGGAAAUACUGUUCUUGAGGUCAUGGUU
+((.(((((.((..((((.((.((((((((((((.............)))))))))))).)).))))..))))))).))..... (-36.40)
+>cfa-mir-196a-1 MI0010360
+ACUGCUGAGUGAAUUAGGUAGUUUCAUGUUGUUGGGCCUGGAUUUCUGAACACAACAACAUUAAACCACCCGACUCACGGCAGUUACUGCU
+((((((..((((.((.(((.((((.((((((((((..(.........)..).))))))))).)))).))).)).))))))))))....... (-29.10)
+>cfa-mir-200b MI0010361
+GCCAUCGCCAUCUUACUGGGCAGCAUUGGAUGGUGUCAGGUCUCUAAUACUGCCUGGUAAUGAUGACGGCGGGGCCCUGC
+(((.(((((((((((((((((((.((((((.(.(....).).)))))).))))))))))).)))...))))))))..... (-34.10)
+>cfa-mir-200a MI0010362
+CUGGGCCUCUGUGGGCAUCUUACCGGACAGUGCUGGAUUUCUUGGCUUGACUCUAACACUGUCUGGUAACGAUGUUCAAAGGUGACCCAC
+.(((((.(((.(((((((((((((((((((((.((((..((.......)).)))).))))))))))))).)))))))).))).).)))). (-42.90)
+>cfa-mir-203 MI0010363
+CCCGGCGCGCUGGGUCCAGUGGUUCUUAACAGUUCAACAGUUCUGUAGCGCAAUUGUGAAAUGUUUAGGACCACUAGCCCCGGCGGGCCCGGCG
+((.(((.(((((((.(.(((((((((.((((.((((.((((((......).))))))))).)))).))))))))).).))))))).))).)).. (-48.10)
+>cfa-mir-208a MI0010365
+ACGCAUGAGCUUUUGGCUCGGGUUAUACCUGAUGCUCACGUAUAAGACGAGCAAAAAGCUUGUUGGUCA
+((..((((((((((.(((((..((((((.(((...))).))))))..))))).))))))))))..)).. (-27.60)
+>cfa-mir-208b MI0010366
+CCUCUCAGGGAAGCUUUUUGCUCGCGUUAUGUUUCUCAUCCGAAUAUAAGACGAACAAAAGGUUUGUCUGAGGG
+.((((((((.((((((((((.(((..((((((((.......))))))))..))).)))))))))).)))))))) (-31.80)
+>cfa-mir-451 MI0010367
+UUGGGGAUGGCGAGGAAACCGUUACCAUUACUGAGUUUAGUAAUGGUAAUGGUUCUCUUGCUGUACCCA
+.((((.(((((((((.(((((((((((((((((....))))))))))))))))).))))))))).)))) (-40.70)
+>cfa-mir-375 MI0010368
+GCCCCGCGACGAGCCCCUCGCACAAACCGGACCUGAGCGUUUUGUUCGUUCGGCUCGCGUGAGGCAGGGG
+(((.((((.((((((...((.(((((.((........)).))))).))...)))))))))).)))..... (-31.40)
+>cfa-mir-190a MI0010369
+UGCAGGCCUCUGUGUGAUAUGUUUGAUAUAUUAGGUUGUUAUUUAAUCCAACUAUAUAUCAAACAUAUUCCUACAGUGUCUUGCC
+.(((((.(.(((((.((((((((((((((((..(((((..........)))))))))))))))))))))..))))).).))))). (-31.60)
+>cfa-mir-190b MI0010370
+UGCUUCUGUGUGAUAUGUUUGAUAUUGGGUUGUUUAAUUAGGAAUCAACUAAAUAUCGAACAUAUUCUUACAGCAGUG
+.(((.(((((.(((((((((((((((.((((((((......))).))))).)))))))))))))))..))))).))). (-28.80)
+>cfa-mir-147 MI0010371
+ACUCUAUGAAUCUAGUGGAAACAUUGCUGCACAAACUAGAUUAUGGAUACCAGUGUGCGGAAAUGCUUCUGCUACAUUUUUAGGGC
+.(((((.((((.((((((((.((((.(((((((......(((...))).....))))))).)))).)))))))).)))).))))). (-27.40)
+>cfa-mir-490 MI0010372
+AAAGUUCAUUGUUCGACACCAUGGAUCUCCAGGUGGGUCACGUUUAGAGAUACACCAACCUGGAGGACUCCAUGCUGUUGA
+............((((((.(((((((((((((((.(((...((........))))).)))))))))..)))))).)))))) (-32.30)
+>cfa-mir-211 MI0010373
+CUGGCCAUGUGACUUGUGGGCUUCCCUUUGUCAUCCUUUGCCUAGGGUUCUGAGAGGGGCAGGGACAGCAAAGGGGUGCUCAGUUGUCACCUCUCACAGC
+(((.....(((((...(((((.(((((((((..(((((.((((.............)))))))))..))))))))).)))))...)))))......))). (-41.60)
+>cfa-mir-141 MI0010374
+GCCGGCUCUGGGUCCAUCUUCCAGUACAGUGUUGGAUGGUCUAGUCACGAAGCUCCUAACACUGUCUGGUAAAGAUGGCCCCCGGG
+.((((....(((.(((((((((((.(((((((((((...((.......))...))).))))))))))))..)))))))))))))). (-40.70)
+>cfa-mir-514 MI0010375
+GUACCCUACUCCAGAGAGUGGCAAUCAUUUGUAAUUAUAUGUGAUUGACACCUCUGUGAGUGGAGUAAUGCAUGACA
+.(((.(((((((((((.(((.(((((((.(((....))).))))))).)))))))).)))))).))).......... (-30.30)
+>cfa-mir-95 MI0010376
+AACACAGUGGACGCUCAAUAAAUGUUUGUUGAAUUGAGAUGCAUUAAAUUCAACGGGUAUUUAUUGAGCACCCACUCUGUG
+.(((.(((((..(((((((((((((((((((((((...........)))))))))))))))))))))))..))))).))). (-35.90)
+>cfa-mir-105a MI0010377
+UGUGCAUCGUAGUCAAAUGCUCAGACUCCUGUGGUGGCUGCUCAUGCACCACGGAUGUUUGAGCAUGUGCUACGGUGUCUA
+...(((((((((.((.((((((((((..((((((((..........))))))))..)))))))))).)))))))))))... (-43.40)
+>cfa-mir-105b MI0010378
+UGUGCAUCAUGGUCAAAUGCUCAGACUCCUUGGUGGCUGCUUAUGCACCAUGAAUGUUUGAGCAUGUGCUAUGGUGUCUA
+...(((((((((.((.((((((((((...((.((((.(((....))))))).)).)))))))))).)))))))))))... (-36.70)
+>cfa-mir-188 MI0010379
+UGCUCCCUCUCUCACAUCCCUUGCAUGGUGGAGGGUGAGCUUUUUGAAAACCCCUCCCACAUGCAGGGUUUGCAGGAUGGUGAGCC
+.((((((..(((..((..(((((((((..((((((....(.....).....))))))..)))))))))..))..))).)).)))). (-38.60)
+>cfa-mir-134 MI0010382
+CAGGGUGUGUGACUGGUUGACCAGAGGGGCAAGCACUCUGUUCACCCUGUGGGCCACCUAGUCACCAACCCUC
+.(((((..((((((((.((.(((.((((...((((...))))..)))).)))..)).))))))))..))))). (-35.30)
+>cfa-mir-149 MI0010383
+GCCGGCGCCCGGGCUCUGGCUCCGUGUCUUCACUCCCGUGUGUCCGAGGAGGGAGGGAGGGACGGGGGCUGUGCUGGGGCAGC
+....((((((.(((.(.(.((((((.(((((.(((((.(.(.....).).)))))))))).)))))).).).))).)))).)) (-46.80)
+>cfa-mir-299 MI0010384
+AAGAAAUGGUUUACCGUCCCACAUACAUUUUGAGUAUGUAUGUGGGACGGUAAACCGCUUCUU
+(((((.((((((((((((((((((((((.......)))))))))))))))))))))).))))) (-42.10)
+>cfa-mir-362 MI0010385
+GAAUCCUUGGAACCUAGGUGUGAGUGCUAUUUCGGUGCAACACACCUAUUCAAGGAUUCAAAGAGGCU
+(((((((((((...((((((((.(((((.....)))))..)))))))))))))))))))......... (-29.70)
+>cfa-mir-376b MI0010386
+AGUCUUUCUUUGGUAUUUAAAAGGUGGAUAUUCCUUCUAUGUUUACGUGAUUCAUAGAUAAUCAUAGAGGAAAAUCCAUGUUUUCAGUAUCAAAUGCUG
+........(((((((((.((((.((((((.(((((.(((((.(((.(((...)))...))).)))))))))).)))))).)))).)))))))))..... (-30.00)
+>cfa-mir-376c MI0010387
+UUUGGUAUUUAAAAGGUGGAUAUUCCUUCUAUGUUUAUGUUAUUUAUGGUUAAACAUAGAGGAAAUUCCACGUUUUCAGUAUCAAA
+.((((((((.((((.(((((..(((((.(((((((((.............))))))))))))))..))))).)))).)))))))). (-33.20)
+>cfa-mir-370 MI0010388
+AGACAGAGAGGCCAGGUCACGUCUCUGCAGUUACACAGCUCAUGAGUGCCUGCUGGGGUGGAACCUGGUCUGUCUGUCU
+(((((((.(((((((((..((((((.((((.(((.((.....)).))).)))).))))))..))))))))).))))))) (-44.00)
+>cfa-mir-377 MI0010389
+UUGAGCAGAGGUUGCCCUUGGUGAAUUCGCUUUAUUUAUGUUGAAUCACACAAAGGCAACUUUUGUUUG
+..((((((((((((((.(((((((.(((((.........).)))))))).))).)))))))))))))). (-27.70)
+>cfa-mir-381 MI0010390
+UACUUAAAGCGAGGUUGCCCUUUGUAUAUUCGGUUUAUUGACAUAGAAUAUACAAGGGCAAGCUCUCUGUGAGUA
+((((((.((.(((.((((((((.((((((((.(((....)))...)))))))))))))))).))).)).)))))) (-34.60)
+>cfa-mir-340 MI0010391
+UUGUACCUGAUGCGAUUAUAAAGCAAUGAGACUGAUUGUCAUGUGUCGGUUGUGGGAUCCGUCUCAGUUACUUUAUAGCCGUGCCUGGUACC
+..(((((.(.((((.((((((((...((((((.((((.(((((.......))))))))).))))))....)))))))).)))).).))))). (-29.30)
+>cfa-mir-330 MI0010392
+CUUUGGCGAUCACUGCCUCUCUGGGCCUGUGUCUUAGGCUCUGCAAGAUCAACCGAGCAAAGCACACGGCCUGCAGAGAGGCAGCGCUC
+....((((....(((((((((((((((((((.(((..((((.............)))).))))))).))))..))))))))))))))). (-43.50)
+>cfa-mir-326 MI0010393
+UCUGUCUGUUGGGCUGGAGGCAGGGCCUUUGUGAAGGCGGGUGGUGAUCGGAUCGCCUCUGGGCCCUUCCUCCAGCCCAGAGGCGGAUUCA
+(((((((.((((((((((((.(((((((......((((((.(.(....).).))))))..))))))).))))))))))))))))))).... (-56.60)
+>cfa-mir-331 MI0010394
+GAGUUUGGUUUUGUUUGGGUUUGUUCUAGGUAUGGUCCCAGGGAUCCCAGAUCAAACCAGGCCCCUGGGCCUAUCCUAGAACCAACCUAA
+..............(((((((.((((((((.((((.(((((((...((...........)).))))))).)))))))))))).))))))) (-38.80)
+>cfa-mir-324 MI0010395
+CGCAUCCCCUAGGGCAUUGGUGUGGAGCUGGAGACCCACUGCCCCAGGUGCUGCUGGGGGUUGUAGUC
+.(((.(((((((((((((((.(.(.((.(((....))))).))))).))))).))))))).))).... (-30.30)
+>cfa-mir-325 MI0010396
+AGUGCUUGGUUCCUAGUAGGUGUUCAGUAAGUGUUUGUGACAUAAUUCGUUUAUUGAGCACCUCCUAUCAAUCAAGCACUGUGCUAGGCUCUGG
+(((((((((((..(((.((((((((((((((((..(........)..)))))))))))))))).)))..))))))))))).............. (-36.70)
+>cfa-mir-346 MI0010397
+GGUCUCUGUGGUGGGCGUCUGUCUGCCCGCAUGCCUGCCUCUUUGUUGCUCGGAAGGAGGCAGGGGCUGGGCCUGCAGCUGCCUGGGCAGAGCGG
+.(.((((((..((((((.((((..((((((...(((((((((((.........))))))))))).)).))))..)))).)))))).))))))).. (-50.20)
+>cfa-mir-329b MI0010398
+GGUACCUGAAGAGAGGUUUUCUGGGUUUCUGUUUCUUUAAUGAGGAUGAAACACACCUGGUUAACCUCUUUUCCAGUAUC
+(((((..(((((((((((..((((((...((((((.((......)).)))))).))))))..)))))))))))..))))) (-33.00)
+>cfa-mir-452 MI0010399
+GCUAAGCACUUACAACUGUUUGCAGAGGAAACUGAGACUUUGUAACUACAUCUCAGUCUCAUCUGCAAAGAAGUAAGUGCUUUGC
+((.((((((((((...(.((((((((.((.(((((((...(((....)))))))))).)).)))))))).).)))))))))).)) (-38.40)
+>cfa-mir-483 MI0010400
+GAGGACGGGAGGAAAGGAGGACGUGGUUUCAUGCAGGUCCUCACUCCUCCCCUCCCGUCUUCCUCUUCC
+((((((((((((..((((((((.((........)).))))....))))..))))))))))))....... (-37.70)
+>cfa-mir-487a MI0010401
+GGUACUUGAAGAGUGGUUAUCCCUGCUGUGUUCGCUGUAUUUAUGACGAAUCAUACAGGGACAUCCAGUUUUUCAGUAUC
+((((((.(((((.(((...((((((.(((((((((.........).)))).))))))))))...))).))))).)))))) (-30.20)
+>cfa-mir-488 MI0010402
+GAGAAUCAUCUCUCCCAGAUAAUGGCACUCUCAAACAAGUUUUCAAGUUGUUUGAAAGGCUAUUUCUUGGUCAGAAGACUCUC
+((((.((.(((..((.(((.((((((.((.((((((((.((...)).)))))))).))))))))))).))..))).)).)))) (-28.70)
+>cfa-mir-432 MI0010403
+UGACUCCUCCAGGUCUUGGAGUAGGUCAUUGGGUGGAUCCUUAAUUUCCCUAUGUGGGCCACUGGAUGGCUCCUCCAUGUCUUGGCG
+........(((((.(.(((((..(((((((.(((((.(((...............)))))))).))))))).))))).).))))).. (-35.00)
+>cfa-mir-494 MI0010404
+GAUACUCGAAGGAGAGGUUGUCCGUGUUGUCUUCUCUUUAUUUAUGAUGAAACAUACACGGGAAACCUCUUUUUUAGUAUC
+((((((.((((((((((((.((((((((((.(((((.........)).)))))).))))))).)))))))))))))))))) (-33.90)
+>cfa-mir-496 MI0010405
+AGUCAGGUACUUGAAUGGAGGUUGUCCAUGGUGUGUUCAUUUUAUUUAUGAUGAGUAUUACAUGGCCAAUCUCCUUUCAGUACUAAAUUCUUCUUGGG
+.....((((((.(((.((((((((.(((((..(((((((((........)))))))))..))))).)))))))).))))))))).............. (-36.90)
+>cfa-mir-504 MI0010406
+GCUGCUGUUGGGAGACCCUGGUCUGCACUCUAUCUGUAUGCUUACUGAAGGGAGCGCAGGGCAGGGUUUCCCAUACAGAGGGC
+(((.((((((((((((((((.(((((.((((.((.(((....))).))..)))).))))).)))))))))))).))))..))) (-49.10)
+>cfa-mir-505 MI0010407
+CAGUGGGGGAGCCAGGAAGUAUUGAUGUUUCUGCCAGUUUAGCGUCAACACUUGCUGGUUUCCUCUCUGGAGCAUC
+(((.(((((((((((.((((.((((((((...........)))))))).)))).))))))))))).)))....... (-36.20)
+>cfa-mir-539 MI0010408
+UACUUGAGGAGAAAUUAUCCUUGGUGUGUUCGCUGUGUUUGUGAGGAAUCAUACAAGGACAAUUUCUUUUUGAGUA
+((((((((((((((((.(((((((((..(((((.......)))))....))).)))))).)))))))))))))))) (-28.90)
+>cfa-mir-544 MI0010409
+AUUUUCAUCACCUAGGGAUCUUGUUAAAAGGCAGAUUCUGAUUUAGGGACCAAGAUUCUGCAUUUUUAGCAAGUUCCCAAGUGAUGCUA
+.....((((((...((((.((((((((((((((((.(((.............))).))))).))))))))))).))))..))))))... (-35.10)
+>cfa-mir-545 MI0010410
+CCCAGCCUGGCACAUUAGUAGGCCUCAGUAAAUGUUUAUUGGAUGAAUAAAUGAAUGACUCAUCAACAAACAUUUAUCGUGUGCCUGCUAAGGUGAUCUCCACAGG
+.....((((((((.((((((((((.(.((((((((((....(((((.............)))))...)))))))))).).).))))))))).))).....).)))) (-32.00)
+>cfa-mir-551a MI0010411
+GGGGACUGCCAGGUGACCCUGGAAAUCCAGAGUGGGUAAGGCCUGUCUGAUUGUGUCUAGGCGACCCACUCUUGGUUUCCAUGGUUGCCCUGGA
+........((((((((((.((((((((.(((((((((...(((((...(((...)))))))).))))))))).)))))))).))))).))))). (-48.10)
+>cfa-mir-551b MI0010412
+GUGCUCUCCUGGCCCAUGAAAUCAAGUGUGGGUGAGACCUGGUGCACAGCGGGAAGGCGACCCAUACUUGGUUUCAGAGGCUGCGAGAAU
+....((((.(((((..(((((((((((((((((..(.(((..(((...)))...)))).)))))))))))))))))..))))).)))).. (-44.10)
+>cfa-mir-568 MI0010413
+AUACACUAUAUUAUGUAUAAAUGUAUACACACUUCCUAUAUAUAUCCAUAUAUAUAUAGUGUAUAUAUUAUACAUGUAUAGGUGUG
+((((.((((((.((((((((.(((((((((......(((((((((....)))))))))))))))))))))))))))))))))))). (-27.70)
+>cfa-mir-578 MI0010414
+CCAAGUAGCUUCUUGUGCUCUAGAUUGGUGUUUUUCAUAGUGUGGAGUCAAGAAGUUGCUUUAGGGAUC
+(((((((((((((((.((((((.((((.((.....)))))).)))))))))))))))))))..)).... (-28.50)
+>cfa-mir-582 MI0010415
+ACUCUUUGGUUACAGUUGUUCAACCAGUUACUAAUCUAGCUAAUUGUAACCAGUUGAACAACUGAACCCAAAGGGUGCAAA
+(((((((((...((((((((((((..(((((..............)))))..))))))))))))...)))))))))..... (-34.10)
+>cfa-mir-589 MI0010416
+GGCUCUGAGAACCAUGUCUGAUCAGAGCUGGGUACUGCCUGUUCAGAACAGACACCGGUCUCUAAGACGCAG
+.(((((((((.((.((((((.((.((((.((......)).)))).)).))))))..))))))..))).)).. (-26.30)
+>cfa-mir-592 MI0010417
+UGAUAUUAUGCCAUGACAUUGUGUCAAUAUGCGAUGAUGUGUGUGAUGGCACAGCGUCAUCACGUGGUGACGCAACAUCAUGACGUAAGACAUCA
+((((.(((((.(((((..((((((((.((((.((((((((((((....))))).))))))).)))).))))))))..))))).)))))...)))) (-40.80)
+>cfa-mir-599 MI0010418
+AAAGACCUGCUGUCCACAGUGUGUUUGAUAAGCUGACAUGGGACAGGGAUUCUUUUCACUGUUGUGUCAGUUUAUCAAACCCAUACCUGGAUGAC
+...........(((((..(((.(((((((((((((((((..((((((((.....))).)))))))))))))))))))))).)))...)))))... (-37.30)
+>cfa-mir-615 MI0010419
+UCGGGAGGGGCGGGAGGGGGGUCCCCGGAGCUCGGUCUCGAGGGUGCUUAUUGUUCGGUCCGAGCCCGGGUCUCCCUCUCCCCCC
+......((((.((((((((((..(((((.((((((.(.((((.(.......).))))).))))))))))))))))))))))))). (-53.50)
+>cfa-mir-628 MI0010420
+AUAGCUGUUGUGUCACUUCCUCAUGCUGACAUAUUUACUAGAGGGUAAAAUUAAUAACCUUCUAGUAAGAGUGGCAGUCGAAGGGAAGGGCUCAU
+........((.(((.((((((...((((.(((.(((((((((((((..........))))))))))))).))).))))....))))))))).)). (-35.60)
+>cfa-mir-631 MI0010421
+CCGACCUGGCCCAGACCUCAGCCCCAUAGCUGAUGGGCUGAGUCAGGGGCCAAGGCUCCCCUCGUCCA
+..((((((((((.(((.(((((((..........))))))))))..))))).))).)).......... (-31.60)
+>cfa-mir-632 MI0010422
+CGCCUCCGGCCGCAGUGCCUGACGGGAGCAGAGCGGCGAACGAGGGCGUCGGCCAUUUUGUGUCUGUUUCCUGUGGGACGCGGUCGUGGCCGUUGGC
+.(((..((((((((.(((((.(((((((((((...(((((....(((....)))..))))).)))).))))))).))..))).).)))))))..))) (-46.90)
+>cfa-mir-653 MI0010423
+UCAUUCCUUCAGUGUUGAAACAAUCUCUAUUGAACCAGGCUCCAAACCAAGUUCACUGGAGUUUGUUUCAAUAUUGCAAGAAUGAUAAGAU
+((((((...((((((((((((((.(((((.(((((..((.......))..))))).))))).))))))))))))))...))))))...... (-35.70)
+>cfa-mir-758 MI0010424
+CUGGGUACAUGAGAUGGUUGACCAGAGAGCACACGCUUUAUUUGUGCCGUUUGUGACCUGGUCCACUAACCCUCAGUAUCU
+..((((((.((((.((((.((((((.(.(((.((((.........).))).)))..))))))).))))...)))))))))) (-27.20)
+>cfa-mir-671 MI0010425
+CAGGAAGAGGAGGAAGCCCUGGAGGGGCUGGAGGUGAUGGAUGUUUUCCUCCGGUUCUCAGGGCUCCACCUCUU
+....((((((.(((.((((((..(((((((((((.((.......)).)))))))))))))))))))).)))))) (-41.70)
+>cfa-mir-454 MI0010426
+AGAACCCUAUCGAUAUUGUCUCUGCUGUGUAAAUAGCUCUGAGUAGUGCAAUAUUGCUUAUAGGGUUUUG
+((((((((((((((((((((((.(((((....)))))...)))....)))))))))...)))))))))). (-26.20)
+>cfa-mir-802 MI0010427
+UUCUAUUAUUUGUACUCAGUAACAAAGAUUCAUCCUUGUGUCCGUCAAGCAACAAGGAGAAUCUUUGUCACUUAGUGUAAUUAAUAGCUG
+..((((((.(((((((.(((.((((((((((.(((((((((.......)).))))))))))))))))).))).))))))).))))))... (-33.70)
+>cfa-mir-300 MI0010428
+GCUACUUGAAGAGAGGUUAUCCUUCGUGUGUUUGUAUGAUUGUAAUGAAUAUGCAAGGACAAGCUCUCUCCGAGGAGC
+(((.((((.((((((.((.(((((.((((((((((.........))))))))))))))).)).)))))).)))).))) (-29.80)
+>cfa-mir-874 MI0010429
+UUAGCCCUGCGGCCCCACGCACCAGGGUAAGAGAGACUCUCGCUUCCUGCCCUGGCCCGAGGGACCGACUGGCUGGGC
+((((((...(((.(((.((..((((((((((.(((...))).))...))))))))..)).))).)))...)))))).. (-36.40)
+>cfa-mir-875 MI0010430
+GUGGUACUAUACCUCAGUUUUAUCAGGUGUUCUUUAAAAUCACCUGGAAAUACUGAGGUUGUGUUUCACUGAAC
+((((.((...((((((((.((.(((((((...........))))))).)).))))))))...)).))))..... (-28.30)
+>cfa-mir-876 MI0010431
+UGAAGUGCUGUGGAUUUCUUUGUGAAUCACCAUAUCUAAGCUAAUGUGGUGGUGGUUUACAAAGUAAUUCAUAGUGCUUCA
+((((((((((((((((.((((((((((((((((..(.........)..)))))))))))))))).)))))))))))))))) (-41.60)
+>cfa-mir-885 MI0010432
+CCGCGCUCUCUCCAUUACACUACCCUGCCUCUUCUCCAUGAGAGGCAGCGGGGUGUAGUGGAUAGAGCACGGGU
+(((.(((((.(((((((((((.(((((((((((......))))))))).))))))))))))).))))).))).. (-49.10)
+>cfa-mir-665 MI0010433
+UCCCGCGGCCUCAGCCUCCACCCGGGGCUCUGUCCGGACCAGGAGGCUAAGGCCCCUCACGGCGGCUG
+..(((((((((.(((((((..(((((......)))))....))))))).))))).......))))... (-35.00)
+>cfa-mir-207 MI0010434
+CAGGGGCGAGGGGCUGCGGGGGGAGCGGGGCGGAGGCUGCGGCCGCUUCUCCGGUCUCUCCUCCUUCCC
+.(((((.((((((((...((((((((((.((((...))))..))))))))))))))))))))))).... (-40.40)
+>cfa-mir-761 MI0010435
+UGGCAAGAGGAGGAGCAGCAGGGUGAAACUGACACAGUUCUGGUGAGUUUCACUUUGCUGCUCCUCCUGA
+.......(((((((((((((((((((((((.((.((....)))).))))))))))))))))))))))).. (-46.90)
+>cfa-mir-764 MI0010436
+AAUCUAGGAGGCAGGUGCUCACUUGUCCUCCUCCGUGCUUGGAAAAUACAGGGAGGAGGCCAUAGUGGCAACUGUCACCAUGAUUGAUUUCGUUGG
+((((..((.(((((.(((.((((((.((((((((.((..(.....)..)).)))))))).)).))))))).))))).))..))))........... (-40.50)
+>cfa-mir-759 MI0010437
+GGAUUAUAAUAAAUUAAAUGCCUAAACUGGCAGAGUGCAAACAAUUUUGCCUCAGAUCUAAAUGUUUGCACUGGCUGUUUAAACAUUUAAUUUGUU
+.......(((((((((((((..(((((.(((..((((((((((.(((............))))))))))))).))))))))..))))))))))))) (-29.20)
+>cfa-mir-718 MI0010438
+GCGGCGGCGGCGGGCAAGAUGGCGGCGGGCCCGGGCCCCGCCCCUUCCGCCCCGCCGGGCGCCGCACGAGGC
+((((((.(((((((...((.((.(((((((....).)))))))).))...)))))))..))))))....... (-46.70)
+>cfa-mir-872 MI0010439
+UUGUUAGAAGGUUAUGUGUUAGCUCAAGGCUUCAUUAUUUCCUGCCUGACCUAUUGAAGUAGCCUUCUAACGG
+.((((((((((((((....(((.(((.(((.............)))))).))).....)))))))))))))). (-27.10)
+>cfa-mir-29c-2 MI0015960
+ACCGAUUUCUCCUGGUGUUCAGAGUCUGUUUUUGUCUAGCACCAUUUGAAAUCGGUUA
+(((((((((...(((((((.(((...........))))))))))...))))))))).. (-22.40)
+>cfa-mir-1837-2 MI0015961
+AUGUGAUGGCUCUUCUGAGAAGUACUUCGAUGGCUCCUCUCAGAGGGACUGCGACAUCU
+((((..(((.((((((((((.(..((.....))..).)))))))))).)))..)))).. (-17.70)
+>cfa-mir-1837-3 MI0015962
+AUGUGAUGGCUCUUCUGAGAAGUACUUCGAUGGCUCCUCUCAGAGGGACUGCGACAUCU
+((((..(((.((((((((((.(..((.....))..).)))))))))).)))..)))).. (-17.70)
+>cfa-mir-1837-4 MI0015963
+AUGUGAUGGCUCUUCUGAGAAGUACUUCGAUGGCUCCUCUCAGAGGGACUGCGACAUCU
+((((..(((.((((((((((.(..((.....))..).)))))))))).)))..)))).. (-17.70)
+>cfa-mir-1199 MI0020342
+AGCCUGCGCCGAAGCCGGGGCCUGAGCCCAGGCCGCGCAGGCCGAGAACUCGUCGAGCUGCGUGUGCGGCCGGUGCUCAGCCUGCCGGGUCCCGGCCCCGCGCUCCCGCGCGCUUUGGA
+..((.((((((.(((((((((((((((((.(((((((((.(((((.......)))....)).))))))))))).)))))((((...))))...))))))).)))..)).))))...)). (-66.20)
+>cfa-mir-6529 MI0027868
+ACAUGAGAAAAACCUGUUCUCUUGAGAGAUCAGAGGCGCAGAGUGCGUCAAUGUCAAUGAAGCCUGUGCCUUUUACCUCUUUAAGAGCGCACGGUUUCAUUCUGCUUCU
+.....((((((((((((.((((((((((...((((((((((...((.(((.......))).))))))))))))...))).))))))).))).)))))..))))...... (-37.80)
+>cfa-mir-8789 MI0027869
+CUAGACCCAGGGCAGCGGCAGAAAGCAUGAAGACCUGGUUUGGAUUCAAGAAACGUUCCCGAGCUCAGGUGCCUGGGUGGCUCAGGCAGCUAAGCGAACGACUCUCCAUUUCAGUUCGGGGUGUGAUCUCUGGGUUGUGGGAUCG
+...((((((.(((..(((.(((..((((...((.((((..((((.....((..(((((....(((.((.((((((((...)))))))).)).))))))))..))))))..)))).))...))))..)))))).))).)))).)). (-55.20)
+>cfa-mir-8790 MI0027870
+CACCACAGUUCCGCCCACAAUGGAGCCCCGUGUCAUCACUGUAGGUCUGGGGUCGAGUUAGCACUUAGCCCUGCACUCUGAAGGUGAGGGGAGGCCCUGUCUCCACGCCAGGUGGGAAGGGGA
+.......((((((.......)))))).((.(.((.(((((.(((((.((((((.((((....)))).)))))).)).)))..))))))).).))((((.((.((((.....)))))).)))). (-42.50)
+>cfa-mir-8791a MI0027871
+CGCCGAUCUGCACAGCUCGGAGCUCGGGGCGGCAGGAGAGUCCUCGGUGUCCUGUGCCCUCCCGGCCUCCACCUGUCCCGGGGCGAGCGCAGGAUCCUGGGCUGUGUCCCCCGCGCCCUGGGACCCCGGGUCUGCGUCGCUGGGA
+..((.(.(.((.((((((((.(((((((((((..(((.(((((..((.((((((((((.((((((............)))))).).))))))))))).)))))...)))..).))))))))).).))))).))).)).).).)). (-72.50)
+>cfa-mir-8792 MI0027872
+GAGAGUACUGUUUCUGAUUCUUUCAUUUGUGUUGUGGUGAGUUCUUCCUUCUAGUCAUUUUGCUCAGUGCAGAGUGGCUGUAUGAGCAGGCUGAGUUAAGAAUAUCAACCACGACCUAAGUAAAUUUCACCCUAAGUGAUUCUGC
+.((((((((.....(((...(((.(((((.((((((((((((((((..(((.((((....((((((.(((((.....))))))))))))))))))..)))))).)).)))))))).))))))))..))).....))).))))).. (-42.00)
+>cfa-mir-8793-1 MI0027873
+CCAGCUCGAUCACCUCUGGCUCUGAAGCUUUAGCAGGCCCCGAGGUAGGAGCUGGGGCCGGUUGUUGAGGUGGUUCAGGAUAUUGCACAGGGGCAGACACUAGUU
+............(((((((((((((((((((((((((((((.((.......))))))))...)))))))))..)))))).....)).))))))............ (-38.00)
+>cfa-mir-8794-1 MI0027874
+CCUCUUAUCCCAGUGGAGCUGAUGUCCUGAGCUGGAAUCGGCAAGUGGCCUGGGGACAAAAUGGUGCCCCAUCAUCAGCCUCCCCAGUGAAGGGCUCUCUGUCCUCUGCACGG
+..........(((.(((...((.(((((..(((((....(((..((((..(((((((......)).)))))))))..)))...)))))..)))))))....))).)))..... (-40.60)
+>cfa-mir-8795 MI0027875
+GCGGUUUGUGGAGCGGCAGGCUGUGGUCCCUGUGGAAGAUGCGCCAGCCCGGACGGGGGUUGGAUGCGCGACCCUGCAGGUGCAUUUCAGAGGCCUCCAGACG
+(((((((((......)))))))))((((.(((....(((((((((.((.......(((((((......))))))))).)))))))))))).))))........ (-41.90)
+>cfa-mir-8796 MI0027876
+AAGUGUAAUAUAACCGGAAGAACUGCCUGUAUUGAGUCUGGAUUCCUGUGUUCUACCCUAGAACUAAUUAGGUGAUCAGACUAGUUUGGUAGUUAUACAUCUGGUUCUGGUGCCCUACUAAAAGU
+.((.(((.((.(((((((..(((((((...(((.(((((((...((((.((((((...))))))....))))...))))))))))..))))))).....))))))).)).))).))......... (-34.50)
+>cfa-mir-8797 MI0027877
+GGCAGCGGGGAGCCUGUCACGAGGGCAGACUUGCCAAGGACUGAGAGCUCGGGCUCGGCUCAGGGGCCCCGUGCUCCCCCACAUCAGGACUGCGGCCGUCCCAGCCCCGGGCCCACGCACC
+....(((.((.(((((......((((.(((..(((.((..((((((((.(((((((.......))).)))).)))).......))))..))..))).)))...))))))))))).)))... (-53.00)
+>cfa-mir-8798 MI0027878
+ACCUCUGAGGCCGUUUAGGUAGCUCGCGGAACUCCUGCGGUCGAUGCGAGGCCCCGGCUUUGGAGCUGGGGACGCGAAAAUGAGUGUUAGUCGUGGCUGCUGGCUUCGAGGAACCCCCGUCCUAGCCGA
+.((((.((((((.....((((((.((((..(((...(((.(((.((((...((((((((....)))))))).))))....))).))).))))))))))))))))))))))).................. (-50.60)
+>cfa-mir-8799a MI0027879
+CGAGGGGAGGCCGGAUCCUGGGCUGUGUCCCGGCGCCCAGUGCUCCCGGCCCUGCGCUGUUGGAUUCGCGCUCCAGGCCGCGCAGCCGCCUCU
+.((((((.(((((((.(((((((.((......)))))))).).).))))))((((((.((((((.......)))).)).)))))))).)))). (-46.30)
+>cfa-mir-8800 MI0027880
+AAGAAUGGAUGCUGAAGGGACUCAGUUGGAGUGGGCUCUCAGGUUUGAGACUGGUGCAGUAGGAGUGAGCUAGCCUGGAUCUCUGAUUUGCAGAGCACACUCACAACCUGGGCUACAAUUGAUGC
+.................((.(((((((((((((.(((((((((((.((((((((.(((((........))).)))))).)))).)))))).))))).))))).))).)))))))........... (-42.70)
+>cfa-mir-8801 MI0027881
+UAAAGGCCAGGGACCUGCUGCUCACUGGACAGUCAUUGUAUAGAGGAUGGCUCCAGGCUCCACACAUCCACUGCGAGACUGUUGUACGUAGGCAUGAGGGGGGGCUACCACAGAA
+....((((.....(((..((((.((..(((((((.((((..((.(((((...............))))).)))))))))))))....)).))))..)))...))))......... (-34.70)
+>cfa-mir-8802 MI0027882
+ACGUCCAACCAUGGAGCCACCUGGGCACCCACUAAGACCAUUUUUGAUGUUUCUCUCUCGGCUUGGGGCCUCCUGGUCGAGCAGCUGCUAUUAAGGCAUGUGGUCAGGCUGUGUCCCAGAUUUGUAGGAGACCGUGUGGUC
+..(.(((..(((((..((((((((((((...((..(((((((((((((((....(((((((((.((.....)).))))))).))..)).)))))))...))))))))...))).)))))....)).))...)))))))).) (-43.10)
+>cfa-mir-8803 MI0027883
+AAAAGGCAUUGAUUAUCUUGCAAAACCAGGAAGCACCAGUAUGGCUGGAUCAGGGGCUCAGGUGCUGCUUUUAUCCCUCAGCCCCUGAUUCUCUAGCUGGCUCUUCUGCUUGCAGCCACGUGAUGCUCCCUCUACAC
+....(((((((......((((((.....(((((..(((((.(((..((((((((((((.(((.............))).)))))))))))).))))))))..)))))..)))))).....))))))).......... (-49.40)
+>cfa-mir-8804 MI0027884
+CUUGGCGGUCAGGUGCGCGCCCACGGCCUGGUGCAGCAGGUCGCGGCACUCGUGCAGCGCGGCGGCCAGCACGCGCCGGUCGAAGGUGAAGUCCACCUGGUGGAAGCUGACGG
+.(((((..(((((((..((((..(((((.(((((.((.((((((.((.((.....)).)).)))))).))..))))))))))..)))).....))))))).....)))))... (-53.10)
+>cfa-mir-8805 MI0027885
+UCCAGUGGGGAGGCCCUGGUCAGGGAGGGGGCGGCCAGGGGGCUGACACGCCCCUCGUCUUCCUCAUGGGCGGACAGUCCUGAGGAAUGUCGUGUCCAGCUCCUUAGGGACCCACGGGGCUGACCAGGGCCCACCCUGCCCGCUC
+....((((((.((((((((((((...((((....((((((((((((((((.....(((..((((((.((((.....))))))))))))).))))).))))))))).))..))).)....))))))))))))..))))))...... (-78.80)
+>cfa-mir-8806 MI0027886
+GUAGCUGGGUGGCAGAAAAAGUACUGACUGGGCUUGCUUUAGUAACAGUCUCGAUGUUUUCGUAGGAGAUGCUCCGCGUGAGAUUUGACAGGACCCAGUAGGUGAGUUAUCUAUACAUCCAGUCGACAGACGUUUAUUCAG
+((.((((((((..(((.((..((((.((((((((((..((((.....((((((.......(((.((((...))))))))))))))))))))).)))))).))))..)).)))...))))))))..)).............. (-40.50)
+>cfa-mir-8807 MI0027887
+CUUGCCAUGCUCUUUCUGCUUAGGUCUCUUUUCCUGGCGUGAGGAGAGUGCUUGGGCGAGGUUUUCUGUGUGCUCUGGCGCCUGGGAAGGAGGCUGAGAACCAGCUGGCUGCU
+...((((.(((..((((.(...((((((((((((.(((((.(((((((.((((.....)))).))))......))).))))).)))))))))))))))))..))))))).... (-46.40)
+>cfa-mir-8808 MI0027888
+CCUGGGGAACGCCGGCCUCACCCGCUGGGAAGAACAGAGCCGCGACGUGGGCGCUGCGGUGGCCUCUGUCCCCCUGAGUCCGUUCAAGCGCUGGCACACUCGGUGGU
+.(((((....((((((((.((..(((.((..(.((((((((((..(((((...))))))))).)))))).)..)).)))..))...)).))))))...))))).... (-39.20)
+>cfa-mir-8809 MI0027889
+GAAAUGGUUUGCUCAAGUCCGUCGUCACGAGAGGAUCAGGUCAUUGGCUGAGCCCGGAACCGGGGAGGAGGCCCGAGCGCAGGCCGCCUUCUCCGCCCCCGGGUGCAGCGCAAGGGCGCAGCCUCUGCCGUGCGUGUGCAAGUGA
+.......(((((.((.......((.(((((((((.....(((.(((((((.((((((...((((((((.((((........)))).))))).)))...)))))).)))).))).)))....)))))..)))))))).)))))... (-62.00)
+>cfa-mir-8810 MI0027890
+CUGUGGGGGCCAGCGAGCUGCGCGACCUGUAUUUGAAAACGGAGAACUACCUGGGAGGAGAGUACUUUGCUCGGAUGGUCAAGGCGAGUGAGCCCUCGGCGUCUCCAAG
+.(((((((((..((..(((....((((...((((((...(((((.(((.(((...)))..))).))))).))))))))))..)))..))..)))))).)))........ (-34.50)
+>cfa-mir-8811 MI0027891
+CACAGCGAUCUCCACCUCCUCCGCAUCGUCGUCCUGCGUCAGCUGCUCCUGUGAGACACAGAGAGGUGAGGCUCAGCCGGGACACUCACGGGGAGGGGGGAGGAGGGAG
+........(((((.((((((((.(...((.(((((((.(((.((.(((.((((...))))))))).))).))......)))))))....).))))))))..)))))... (-46.90)
+>cfa-mir-8812 MI0027892
+CCCCUGCUUAACUGGAGCCUUUGAGAGUAGCAUCAUUUGAGUUCCAUCCCUAGGUCAUUCUGAUUGAAUUGACUGGAGGUGGGGCUUAGGUUUUGGUGCUUUCUUACAUGCCCCAGAUGAUUGUAAC
+....((((((.((((.((...((((((.((((((((((((((((((((((..((((((((.....))).))))))).)))))))))))))...)))))))))))))...)).)))).)))..))).. (-46.60)
+>cfa-mir-8813-1 MI0027893
+UCCCAGGGCGCUUAGCACAGACCCUGGUGACCUGAGGCUCCCUGGCUGUCACUCUGUCCCAGGCCCGUCCUGGCCGCGGGCACAGGCUGAGUCGCAGUAGAGUCUGUGGGGUCCUGACCCUGGCAUCUGGCCGCCCCUGGAAGGC
+..((((((.((...((.((((.((.((((((((.((((((.(((....(((.((((((((.((((......))))..))).))))).)))....)))..))))))...)))))...)))..))..)))))).))))))))..... (-63.90)
+>cfa-mir-8814 MI0027894
+GCCAUGAUCUUCAUUACUAAUACUCAUAAUCGGUCUUUAGAUUCAGUGACUGCUUGAGGUGCAAAGGUCCUUAGCAGUCAUUUAACUGAGCGCCUGGUGUUAGUCAUGAAGCACUGGAUCUGGGA
+.(((.(((((((((.((((((((.((.....(((.(((((.((.((((((((((.((((.((....)))))))))))))))).))))))).))))))))))))).))))......)))))))).. (-44.20)
+>cfa-mir-8815-1 MI0027895
+GCGCUGGGCCAAGCUCCCCACAGCUGACUUCUGCUUGCCAGUGGCCUGCGGGGGACGGUGGCACCACGAGCCUCUCCUCAGCAGAAGGCGGCUGGCAGGCCCGGCAGCCUGUGGGCCUUACUGCUGUGCGU
+((((..(((.(((...((((((((((.((...((((((((((.((((((.(((((.((.(((.......)))))))))).))...)))).))))))))))..))))).))))))).)))...)))..)))) (-67.70)
+>cfa-mir-8816 MI0027896
+CCAGGGCUGGAAGGGGCCUCGGAGAGUGUCAGGCUACCUAGAGUCACACACUGAGUUGGUGGCUGGGUUGGAACUAGAAUCCAGGUCAUGUGACUCCCGGUUCAGGAUCACUCUCACCUUGCUCACUUGUGCA
+.....((.(.(((((((....(((((((((..(..(((..((((((((...(((.((((...((((.......))))...)))).)))))))))))..))).)..)).))))))).....)))).))).))). (-50.90)
+>cfa-mir-8815-2 MI0027897
+GCGCUGGGCCAAGCUCCCCACAGCUGACUUCUGCUUGCCAGUGGCCUGCGGGGGACGGUGGCACCACGAGCCUCUCCUCAGCAGAAGGCGGCUGGCAGGCCCGGCAGCCUGUGGGCCUUACUGCUGUGCGU
+((((..(((.(((...((((((((((.((...((((((((((.((((((.(((((.((.(((.......)))))))))).))...)))).))))))))))..))))).))))))).)))...)))..)))) (-67.70)
+>cfa-mir-8817 MI0027898
+UGCCUUCACUUCACAGUUCCUUUGCUGUGUGGCUGGUCCCUUGAGAUAUUAGGUGGGAUCCAUUUAGUGGAUCCCACUCUUGUGAUACUUGGUGGUGGUGCUGCCUGAGGCCCUGUGGGGGGAAAGGGA
+..(((((.((((((((..((((.(....(((((....((.(((((.(((((((((((((((((...))))))))))))....)))))))))).))....)))))).))))..)))))))).).)))).. (-50.00)
+>cfa-mir-8818 MI0027899
+ACAGCAAACGGGCUCAGAGCUGAGGGUGCGUGCCUUUCCCUGGGAGACCUUCCUGUCCUUAGAGGAAAGCGGGAAUCCCACAGGGGUGUGGGUGCUGGAGUCCCCCACCUGGGAGCCUGUGCGGA
+...((..((((((((..((.((.(((.((((((((.((((((((.((..((((((((((...)))...))))))))))).))))))...))))))....)).))))).))..))))))))))... (-52.40)
+>cfa-mir-8819 MI0027900
+CCAGGCGGAGUGGGAUGACUAUGUGCCCAAACUCUGUGAACAGCUGUCUGGGAAGUAGGGCAGUGCUGGGAGACAGUAGCUGUCCCAGAAGUCUCAAGCAGUGUUCUCAAGUUCAGUGAUGCAUGUAGAUUUCUCCACUUUCCCU
+..(((.(((((((((...((((((((.((((((.((.(((((.((((.(((((....(((((((((((.....))))).))))))......))))).))))))))).))))))...))..))))))))...)).))))))).))) (-56.50)
+>cfa-mir-8820 MI0027901
+CAUCACAUGAAUUGACCUGUGGACCCGACGUCUCAUCAUAGCUGCUGUCACCCUCUGACCCCUGACUAGUCCGGAGACCUGAGGUGGGGGGGAGGGGUGUCAGCUCUGUGCAUGGGGCCAUGAGCAGCUCCUGGA
+...((((.(......).))))........((((((((((((..((((.(((((.((..(((((.(((..((.((...)).))))).))))).))))))).)))).))))).)))))))((.(((...))).)).. (-51.30)
+>cfa-mir-8821 MI0027902
+UACUUGGCAAGUUUGGGGAUUGAUUUGGACAACAGUACUGUGUCCUCCUAUCCAUGGGUGUCUGAGCCCCAUGGUGCAGUGGCAUGGGGCAGCUGUUGAGCAUGUGUGGUCCCAAGGCUGCCGGACACU
+...((((((.((((.((((((.((.((..(((((((....((((((.(((((((((((.((....)))))))))....))))...)))))))))))))..)).))..)))))).))))))))))..... (-50.30)
+>cfa-mir-8822 MI0027903
+CUGUGGGAUGGCUGUCGGAGCCUGCGAUUCGGCGUGUGCGCUGCUGCCAAAGGCCUGGGGGCCCUGGUUGGCUGGGCUUAUGCAGAGCUUGGGGCCUGUCAGAGUGACAUUGU
+..(((..((..(((.(((.((((.((((((.(((((.((.(.(((((((..((((....)))).))).)))).).)).))))).))).)))))))))).))).))..)))... (-43.20)
+>cfa-mir-8823 MI0027904
+CCUGCUCUCCUCCUCCAAAGAUCCCUCAGGUGAUCAAUAAUUCCUUCCCGAGACUUUGCUUUAAUUGCUAGGAUCAGGGGGCAGUUAGGAUGAGUUAGAGGUUGGGGAGGAGAUUACAGUGUGUGGGAGAUGGGGGUGGAUGGAG
+.((.(..(((.((((((....((((.((.((((((......((((((((((..((((((((((((((((..........))))))))....))).))))).))))))))))))))))..))...))))..)))))).))).).)) (-52.50)
+>cfa-mir-8824 MI0027905
+GCUUUGAACUAAAGUGUGAGUUUGGGGCUUUAUUCCACUUCUGGUGGUGGUAGGGUGCUGGCAGUUUAGGUAACAAUGUUUCCAUCUCCACCCCCGGCAGUGUAUAUGAUCCGCCUGGGCACGCUGGAACAGGAGGCCA
+(((((.......((((((...((.((((.((((..((((.((((.(((((..(((((..(((((((.....)))..))))..)))))))))).)))).))))...))))...)))).)))))))).......))))).. (-44.20)
+>cfa-mir-8825 MI0027906
+GAAACUGUGGGGGAAAGUAUGGCCAGCAUCAGCUGCUGCCUUGCUAAUGGAUAGCCAGAAAGGGCUGUGUGGGCUCUCAGUUCAGGCUUGGAUUCUGGAGGCUAGGGUCAGCAUGCUUUCCUUCCUCCCUGGCUGGACUUGACCU
+.........(((..((((..((((((....(((((((((((((((...((((((((.(((((((((.....))))))...))).))))...))))....))).)))).))))).)))...........))))))..))))..))) (-49.40)
+>cfa-mir-8799b MI0027907
+CGGCCUCUGCCUGUUCCGGGGGAGGCCGGGUCCUGGGCUGUGCCCCGGCGGCCUGAGCUCCAGAGCCUGUGCUGUUGGAUUCGCGGUCCCGGGGCCCCGCACCCCCCUCCGCGGAGCCUCUUC
+.(((.(((((.......(((((..((.(((((((((((((((..(((((((((.(.(((....)))).).))))))))...))))).)))))))))).))..)))))...))))))))..... (-69.60)
+>cfa-mir-8826 MI0027908
+GCAGCAGGAUCCUGGCUGGGUCUGGACUUCAGGAGACAGCUUGGUCAUCCGCACAGAGCUGGCGUUUGAAAUCCUGAGCCUGACGGGAUUCUCAAAG
+.....(((((((((...((.((.(((.((((((.(.((((((.(((....).)).)))))).).)))))).))).)).))...)))))))))..... (-38.10)
+>cfa-mir-8799c MI0027909
+CCCUCCCGGCCUCUGCCUGUCCCGGGGGAGGCCGGAUCCGGGGCUGUGUCCCGGCGCCCUGUGCUCCGGAGCCUGCGCUGUUGGAUUCGCGCUCCCGGACCGCGCAGCCCCCUCCGCGGAGCCGCCGCCCGAGCC
+.....(((((((((.((......)).)))))))))....((((((((((.((((......((((((((((((....))).)))))...))))..))))...))))))))))(((.((((.....))))..))).. (-68.70)
+>cfa-mir-8827 MI0027910
+UGCCAGUUCUUCCCAGCGGCCCAGCUCCCUAACCUCGGCUUCCUCCUCGUGGUGAGCCUGGGCUCUAGCCUGCCCAGCUCAGAGCCCAUUACCUGCAGACACGAAGAAGAUGCCGGCACUCAGGAUGAUGUUGUGUCGAGUCU
+................((((.(((((((((....(((((.((.((.(((((.((((..(((((((((((.......))).))))))))....)).))..))))).)).)).))))).....)))..)).)))).))))..... (-46.20)
+>cfa-mir-8828 MI0027911
+CAGAAAGCAUUCCUGUCCUUGGCCGUGCCGCCGUGCAGCCUCAGGGCUGGAGUCUGGAGACCCGAGCUGCCAUCUGACCUGGCGACUGGCUCCGUAGGCCCUCAGUUCCCUCCCCUGCCACAGGCACCCAGGUUGUACAGGAGGA
+.........(((((((((((((..(((((...(.((((....((((((((.((((((((.((..((.(((((.......))))).))))))))..)))).).)))..))))...)))))...))))))))))..).))))))).. (-52.50)
+>cfa-mir-1249 MI0027912
+UCCCAGCUCGCCUUGUCCUCAGAUUCUUGUUUGCAUGGGGAGGAGGGAGGAGAGGGGCCAAGUUCCCUCCGCCUGGAACGCCCUUCCCCCCCUUCUUCACCUGGCGAACUCCUACUCGUCCUUCAAGACCCAGCUCAAG
+....((((...((((......((.....((((((..(((((((((((.((.(((((((...(((((........)))))))))))).))))))))))).))..))))))......))......))))....)))).... (-54.80)
+>cfa-mir-8829 MI0027913
+AAGUCUGGAUGGUUUUCCAGAGUGUUUCUCUUGGCCUCUGUUCCAUGCCUGGGCUGUGCCUGGCCAGUGGGUAGAGCCGCAUGGUGUAGGGGCCACAAGGAACAUUCCUGGCAGUGCCCUGGAUG
+..((((((..(((.(((((((((((((((..(((((((((..((((((...((((.((((((.....)))))).))))))))))..)))))))))..))))))))).)))).)).))))))))). (-64.10)
+>cfa-mir-8830-1 MI0027914
+CAGGACCGGCUUCCCUCGUCGCUGAGGCAGGACCGACUUCCCUCAUGGCCGAGGCAGGACCGGCUUUGCUCAUGGCCGAGGCAGGACCGGCUUCG
+..((((((((((.((((((((.((((..(((.(((.(((.((((......)))).)))..))))))..))))))).))))).))).)))).))). (-39.30)
+>cfa-mir-8830-2 MI0027915
+CCGGCUUCCCUCGUCGCUGAGGCAGGACCGACUUCCCUCAUGGCCGAGGCAGGACCGGCUUCCCUCAUGGCCGAGGCAGACCCGG
+((((.((.((((((((.(((((.(((.(((.(((.((((......)))).)))..)))))).)))))))).)))))..)).)))) (-35.30)
+>cfa-mir-8831 MI0027916
+AACAGGAGAUUAGAAGGCCAGUGCCAUGUAAUGACCACUUUGAGUGUUCGUUCUCUUUGUAUGAGACUCCCCAGGGUAGCUCAUAAAGUAGAGAUGACUCUGUCAGACAAUGGAGACCUAACUUUCUAGUUUCCCACCCCAGUUG
+....(((((((((((((..((..((((....((((((((...)))).((((.((((...((((((.((((....)).))))))))....))))))))....))))....))))....))..)))))))))))))........... (-42.10)
+>cfa-mir-8830-3 MI0027917
+GGACCGGCUUCCCUCAUGGCCGAGGCAGGACCCGCUUCCCUCGUCGCUGAGGCAGGACCGACUUCCCUCAUGACCGAGGCAGACCCGGCUUCCCUCAUGACCGAGGCAGACCCGGCUUCCCUCAUGGCCGAGGCAGACCCGGCUU
+((.((((.((.((((..((((((((..(((.(((..((((((((((.(((((.(((.(((.((..((((......)))).))...)))))).)))))))).)))))..))..))).)))))))..))))))))..)).)))))). (-57.20)
+>cfa-mir-8832 MI0027918
+GCCCAUUGUUACACAUCCUCAGGCAGGUGGCCCCGGGCCAUCCAGGGGUAGGAUUGAUUGUGGGACACCCAUGCAUCCUCACCACAACUCAGACUUUCUCCCCAUUAUGUCCCCAGGUUCUUCCCAAGGUGGCACAAUGGUGGCC
+(((((((((..((...(((..((.(((.((((..(((.(((...((((.((((((((((((((..................)))))).))))...))))))))...))).)))..)))))))))..)))))..))))))..))). (-46.10)
+>cfa-mir-8833 MI0027919
+GGGGCUGACGCUGAGCUGGGGGCCCCGGAGCCGCAGACGGGGGGUCGGGCAUCGUCGGAGUCGGUGGGGAUGACGACUGACUUCGACUGCCCGACAGCCCCUGGGGCCUUCAUCCCUACAUCCUCGGACAGCCUCAGCC
+(((((((...(((((.((((((((((((..(((....)))(((((((((((..((((((((((((.(......).))))))))))))))))))))..)))))))))))))))..........))))).))))))).... (-80.70)
+>cfa-mir-8834a-1 MI0027920
+AGGAGCUACAGCCCUAGUGGCGGGGCCAGCUCUGGAAACCUGGAUUCAGCUCUGGCAGGAACUCCGGAGCUCUCCGUCUGCCGGGCCUGGAGGCUCCGGGGCGGGGCCGCUGAUCUGCUCAGCUGGGGCAGGAGCGUCCUC
+(((((((...((((((((((((((..(((((((((....)))))(((((.(((((((((.....((((....))))))))))))).)))))(((((((...))))))))))).))))))..))))))))...))).)))). (-71.60)
+>cfa-mir-8835 MI0027921
+CGCGAGGGCCAGAGGUAUUUCCGGUUCCGGUGCGGGGACUUUCGUUCUUGGUGGUCAGUUGUUGCAGUUGGUGGGUAGUAACUGAGCCAAGAUGCUGCGGAAUCUGCUGGUGAGGAGCUUCUCGGCUUGCGUUAAUAUGGAGC
+.(((.(((((((((((...(((....(((((....(((.(((((((((((((..(((((((((((.........))))))))))))))))))....))))))))))))))...))))))))).))))).)))........... (-50.20)
+>cfa-mir-8836 MI0027922
+CAACAGCAGUGGGAAUGGAGUCACAGGAAGAAUGAAAGAUAGGAAAGGAGAAGGGCCACAGUACCUGGCUUUGCUGUGCCCUCUCAGCUUCUCUUGGAUUGCUUUCACUCUCAUCCUCAUCUAUUGGUCCCCACU
+.......((((((((((((.....(((((((.((((((.(((...(((((((((((.((((((........))))))))))).......))))))...))))))))).)))..))))..))))))....)))))) (-44.80)
+>cfa-mir-8837 MI0027923
+UGCCCGCGUGACACACAUCUAGGAGUUCUUGCUGGAGUCCGGUUGUCUUCCUUUGCGUUGGUGGGACAGAAGUGGGUUCUGCGUGUGGACCACACCUGGGUACCGCGUGAA
+.(((((((((...))).....(((.(((.....))).)))..(((((((((........)).)))))))..))))))....((((((((((.......))).))))))).. (-33.40)
+>cfa-mir-8838 MI0027924
+AAGAAAAGACCAUUCUUUGGUUUCAGGGCAGAUGUGGGAUAGACAUACAAGUUUGCUGAGCAUUCAAGCUCAUAAAUUUUCUCUAGGACAAUCUGCCUCUGAACUUAAUUUUGAAUAAUAAGGACUUGG
+.......(((((.....)))))(((((((((((.((...((((.....(((((((.(((((......))))))))))))..))))...))))))))).))))........................... (-34.00)
+>cfa-mir-8839 MI0027925
+UGAGUAACAUGCCCGGAGGCACAGAGCUAGUAAUUGGCAGAGCCAGGAUUCAAGCCCAGCGAGGCUGCUCCAGAACCCGGGCUCUUGCCAGCUCCGCAGGCUGUCUCCUAGGAGUUGUUCGAGGG
+((((((((...((.((((((((.(((((.......(((((((((.((.(((..(..((((...))))..)..))).)).))))).))))))))).).....)))))))..)).)))))))).... (-43.30)
+>cfa-mir-8840 MI0027926
+CUGAGGCUUGGUCCCAGUGGGGCACUCUGAGGGCAUGUAGGAUACAUGGCUGACUUGUCAGUGGGGCUGAAAAGCGGACAUUUAGCCAGUGUCUUCAACUCUGCGUUGACCUAAAGAGCAUCCCACAGGAUGCCAGUCUUCCAAA
+..((((((.(((.((.((((((..((((..(((((((((((((((.(((((((..((((.((...........)).)))).)))))))))))).......))))).)).)))..))))..)))))).))..)))))))))..... (-54.00)
+>cfa-mir-8841-1 MI0027927
+UUGGACUUCAGGGGUACUUGAAGGUUCAGCUGGGGCCUCCUGUGGGCUUACAGAAUUUCCAGCUUCCUUAAGGAUCUCUGGAGGCUGAGAUAGAG
+((((.((((((((((.(((.((((...((((((((....(((((....)))))...)))))))).)))).))))))))))))).))))....... (-35.10)
+>cfa-mir-8842 MI0027928
+GGCGAGCGGCGCUUCUCCCGUGCUGUGGCUCACGCUUUGGUACAGGAGGCCGAGACUCUUCUGGCGACGGCGACCUCUGCGGCGACGGCUGAGGCUCUCGG
+..((((....(((((..(((((((((((....((((.(.((.(((((((.......))))))))).).))))....))))))).))))..))))).)))). (-40.20)
+>cfa-mir-8843 MI0027929
+UACGCUCUGUGUACUUUAACCUAAUGGGGGUCGUCCGGGAGUCGGAAGGGGGAGGGGAGAGGGAGGAGGCAGCCAAGGAAUUGUUUUUUUCUCUCGCCCCGCCUGCGCCAGGCCGGCCAAUGGCGACGGGUUGUUUACCCAGGAG
+(((((...)))))......(((....)))((((.(((...(((((..(.(((.((((.((((((((((((((........))))))))))).))).)))).))).)......)))))...)))))))((((.....))))..... (-54.50)
+>cfa-mir-1301 MI0027930
+GAACUCUGCUAAGCGACCCCUAGAAUGGGGCUUGUGGGGGGUCACUCUGGGCACCGCAACACUGUGCUAGGGAUGUUGCAGCUGCCUGGGAGUGACUUCACACAGUCCUCUCUGCCUCAAGGGUCACCCAGAACA
+....((((....(.(((((.((((..((((((.(((.(((((((((((.(((((.((((((((.......)).)))))).).))))..))))))))))).))))))))).))))......))))).).))))... (-55.20)
+>cfa-mir-8844 MI0027931
+CUAAGGACCACAUCAUUUCUGCUUGGUCUUCUGGCCUGGAAUAAUGGUUGAGGGACUUGGUUCUGGUACCUUGGUGUAGCCAGGCUGAAGGACCUCAGAGUAGGCUGGCUCGGGGACCUUGAUGUGGCCUGAUUCAG
+...(((.((((((((.........(((((((.((((.((..((....((((((..(((.(.((((((..(.....)..)))))).).)))..))))))..))..)))))).))))))).)))))))))))....... (-54.10)
+>cfa-mir-8845 MI0027932
+AGAUCUAGAUGCCACAGGAUGCAUCCUCCACAUUCUGCAAGGCAGGACCGACACCCUCACCCGUGGCUGGCUGUGGGUCCCUGGCUGCCUUGCGCUGCUAACGAACCCUGGGUGUGCCUCUGUGU
+............((((((..((((.(.(((..(((((((((((((((((.(((.((...((...))..)).))).))))).....)))))))))........)))...)))).)))).)))))). (-41.50)
+>cfa-mir-8846 MI0027933
+UUCAAACCUAGGAGGUUCCCACCACCUUAUCACGCCGCAAUGGCCGGACCCUGAGGCUGGCAGGUCCUGGCAGGUGCUGGCGGGACAGAUGUGGCCUCAGAUCAUGGCCUCUGGAAGGCUAGUGGGGUGGAGGCAGCAUCCACCG
+..........(((.(((.((.(((((((((...(((.((..(((((....(((((((((....((((((.(((...))).)))))).....)))))))))....)))))..))...)))..))))))))).)).))).))).... (-65.60)
+>cfa-mir-8799d MI0027934
+CCUCCCGGCCUCUGCCUGUCCCGGGGGGAGGCCAGAUCCUGGGCUGUGUCCCGGCGCCCUGUGCUCCGGAGCCUGCGCUGUUGGAUUCGCGCUCCAGGGCCGCGCAACCCCCUCCGCGGAGCCGCCGCCCGAGCC
+.(((.((((((((((.......((((((..(((.(.((((((((((.((((((((((...(.(((....)))).))))))..)))).)).)).))))))).).))..))))))..))))))..))))...))).. (-59.40)
+>cfa-mir-8794-2 MI0027935
+CCUCUUAUCCCAGUGGAGCUGAUGUCCUGAGCUGGAAUCGGCAAGUGGCCUGGGGACAAAAUGGUGCCCCAUCAUCAGCCUCCCCAGUGAAGGGCUCUCUGUCCUCUGCACGG
+..........(((.(((...((.(((((..(((((....(((..((((..(((((((......)).)))))))))..)))...)))))..)))))))....))).)))..... (-40.60)
+>cfa-mir-8847 MI0027936
+GAAGCUGGUUCUACCCUGACGUCCUGUGGCUCCGAGGUGGGCAGCACCAUUCCUGGGCUCCCAGAGCCUGCAGGUUCAGUGCGUGGCCUCCAGAACUCUCC
+....((((..(((((((((...((((((((((.....((((.(((.(((....))))))))))))))).))))).)))).).))))...))))........ (-41.10)
+>cfa-mir-8848 MI0027937
+GAACCACCACAGCAACUGGGUCUGUGGGCAGGGGUGCACUUGGCAGUAGCACUGGUGUCUGAGGUGCAGGUAUGUGCUGAUCUUCUGUGAAACCAGGGUGCUAGUUGGGCUCCUUUCAGUGACUCAGGUGGAGUGGUGGGGAGGG
+...(((((((..((.(((((((..((((.((((((.((.((((((.(....(((((.((.((((..(((.......)))..))))...)).)))))).)))))).)).))))))))))..))))))).))..)))))))...... (-64.50)
+>cfa-mir-8793-2 MI0027938
+CCAGCUCGAUCACCUCUGGCUCUGAAGCUUUAGCAGGCCCCGAGGUAGGAGCUGGGGCCGGUUGUUGAGGUGGUUCAGGAUAUUGCACAGGGGCAGACACUAGUU
+............(((((((((((((((((((((((((((((.((.......))))))))...)))))))))..)))))).....)).))))))............ (-38.00)
+>cfa-mir-8793-3 MI0027939
+CCAGCUCGAUCACCUCUGGCUCUGAAGCUUUAGCAGGCCCCGAGGUAGGAGCUGGGGCCGGUUGUUGAGGUGGUUCAGGAUAUUGCACAGGGGCAGACACUAGUU
+............(((((((((((((((((((((((((((((.((.......))))))))...)))))))))..)))))).....)).))))))............ (-38.00)
+>cfa-mir-8849 MI0027940
+AUUGCCGCGUUGGCUCCUUGGGAUUGGGACAUCGACGGGCCCAUUGUCCCUCGGUGCCGCAUCUGAAGCAGGCCCCAGGCGGGGUUCGGUCGGUU
+...(((.((((((((.(((.((((..((.((((((.((((.....)))).))))))))..)))).)))..))))...)))).))).......... (-38.20)
+>cfa-mir-8850 MI0027941
+GGAUGAGGGAACCAGCACUUGGAGGUUAAGAGCUGUGUGAGGUCAGGUAAUUAGUGUACUGCUCAGUGUGCAGCUGGGUUCUGGAACCAACACUUCUUCAUCUCAGUGGCUUAACCCAGCA
+......(((....((((((..(((((.(((((..((((..(((((((...(((((((((........))))).))))..))))..))).))))))))).)))))))).)))...))).... (-34.00)
+>cfa-mir-8851 MI0027942
+CAGGAGGUUUAAAUGCUCUCUGACCUCAGUGAGCUCAAAUUCUCUCUGUGGAGAUAACUUUGCAGCUUGCAAAUGGGUCAGAGAACUGCCUGCCAGCUCGUGG
+((.(((.(......((((((((((((..(((((((((((((.((((....)))).)).)))).)))))))....))))))))))...)).....).))).)). (-35.90)
+>cfa-mir-8852 MI0027943
+GGGUCUGUACACACGUGUAUGUGUAUAUGUGGAGCAUGUGUGCAAGUGUCCAUGUCUGUGUAUGUCUAUGCGUGUGGAUUUGCAUUCGUGUGGACUCUGUGCAUGCCAGUGUCUGUACGUGAGUGUGUGCAUGUGCGUACAUGUA
+.....(((((.(((((((((.....((((((.((((((((((((((.(((((((...(((((.((((((....)))))).)))))...))))))).)).)))))))..))).)).)))))).....))))))))).))))).... (-55.50)
+>cfa-mir-8853 MI0027944
+ACCCGGGCGGGGGGCGUUGGGGAAGCCGCGGCCUGGACCGGGACCCACAGCGGCGGCUCCACCUGGGGCAGGGCUCUGACCCGCACUCGGCCUGCGGUAAGCAGCGCCCCACUGCGCGAUGGGGGCUGAGGGC
+.((((.(((((((((((((.....(((((((((.((..((((...((.(((....(((((....)))))...))).)).))))..)).)))).)))))...))))))))).)))).)...))).......... (-68.90)
+>cfa-mir-8854 MI0027945
+GAAGGAGCCACUACUCCUAUCAGAUAUUUGCACUUCCCUUGAUUAACUGAGAGCUUCCAGCACAGACAGACAUGGGCUUCUCCACUGUUGGGUGCCUGGGAUCUGAGGCCUGUGAGGAGGGCAGGGCUGUCUGGGUGUAAGGGCA
+......(((..(((.((((.(((...(((((.(((((.(((.....((.(((..(((((((((.(((((...(((......))))))))..))).))))))))).)).....))))))))))))).)))..)))).)))..))). (-50.00)
+>cfa-mir-8855 MI0027946
+GGCCGGCGUUUGGCUAGUAAAUCCAGUGGCGUGCGUCUUGACAGUAGGUAGCAUCCGAUACCCCGUGAGACCUUGCUGGGCUUAGGGUUCUGUGUUUCCUGUGGCCAAGGCUGCCAGGGUCGGGUUGUUGAACGCUAGCAUUCUG
+.((.((((((((((......((((..(((((...((((((.((.((((.(((((..((.((((..((((.(((....))))))))))))).))))).))))))..)))))))))))))))......)))))))))).))...... (-51.40)
+>cfa-mir-8856 MI0027947
+AACACCAUGUUUCAGCUCUGGAAUGGAAGACGGUGUGAGUACGGAGCUGGCUAGAGUGCGGAGCUGGCUGCUGGGCUUCUAUAACGGGCGCCGUGGGCACUCGGGUGCCGUUUCGGAAUUCUUUCUUGGGAUA
+.(((((.(.(((((.........))))).).)))))((((.((((((.(((..((((((...((.(((.(((.(..........).))))))))..))))))....)))))))))..))))............ (-46.20)
+>cfa-mir-8857 MI0027948
+GACUCUGAUAGGGAAGGAAUAGAGCCCUUUGAUCUGGGCUUAGUACAUCUAAAUGGCUAGAAGUUAAGUCCCUUAGCUUCUCCUUAUGUUUUGGGCCAGAAUAAGUUGCUCUCUUUCCCUUGUUAGAGAAG
+..((((((((((((((((...((((..((((.(((((.(((((.((((......((..((((((((((...))))))))))))..)))).)))))))))).))))..)))))))))))).))))))))... (-50.30)
+>cfa-mir-8858 MI0027949
+AGGGUUAUUGAAAUCGCGGUGUGAGCUGUCUUCCGUCUAUAAAUAUGCCUCUCCCGGGUUCUGCUGCAGGCUUUCAGGCAGCGAGCGCAGAGACGGCUGGUGAGGGAGGAGGGACUGCUUAAGGCGACAGCAGAUAAGU
+..(.(((((....((((....(((((.(((((((.(((....((..(((((((..(.((((.(((((..(....)..))))))))).).)))).)))..))...)))))).)))).)))))..)))).....))))).) (-47.40)
+>cfa-mir-8859a MI0027950
+GGCUCAGUCGGGGUCGGAGCCGGGAUCCGGAGUCCGCCUCGCGGUCCAGCGUCGUGGAUCCGAGUCGUGGAUCGGAGCCGGGGUCCGGAGUCCGCCUCGCGGUCCAGCCUCGUGGUUCU
+((((......(((((((((.((((.((((((.((((.(((.(((((((.((.(.((....)).).)))))))))))).)))).)))))).)))).))).)))))))))).......... (-58.50)
+>cfa-mir-8860 MI0027951
+ACAAUGCCCUGUGAGGAGCCGGGAGUUGCUCCCACUCACUUGUGACCUGUUGCUGUGUGAGACGCACCUAAUGUCUACACUAGGUUUGGAGGAAAGUGGGAGUGUGGUGAUCCAGGUAGAGUAAAAAAGCCACCA
+.((((.(((.((.....)).))).))))((((((((..(((..((((((.....((((.(((((.......)))))))))))))))..)))...)))))))).(((((....................))))).. (-41.60)
+>cfa-mir-8861 MI0027952
+UGAACCAGCCGACAGUCCAGCUCCUUUAGUGUCUGCUGCCCUUGCUGCUGGGACCUGGGCGACGGGGGCAAGCGGGCAGUGGGGAGGAGACAGGGGACAGUCAAGCCCG
+.......((.(((.((((..((((((((.(((((((((((((((.((((........)))).))))))).)))))))).))..)))))).....)))).)))..))... (-49.20)
+>cfa-mir-1343 MI0027953
+ACCAACGAUGAUGCUGGCUUCGGUGCUGGGGAGCGGCCCCCGGGCGGGCCUCUGCUCUGGCCCCUCCUGGGGCCCGCACUCUCGCUCCGGGCCCGCUCCACCUCGGCUGCU
+.....(((((..((.((((.(((.((.((((.((((.(((((((.(((((........)))))..))))))).)))).)))).)).))))))).))..))..)))...... (-59.50)
+>cfa-mir-8859b MI0027954
+CUCACGGCCCUGCACCGCGGAUCCGAAUCCGGGGGUCGGGUUCCGCGCCUGGAGUCCGCCUCGUGGUUCUGAGUCCGGGUCGGAUUCCGUGCCUGGAGUCCGCCCCGCGGGCCUGCAUCGUGGUUCCAAGUCCGGGUCC
+.....(((((.((...((((((.....((((((.(.((((.((((.(((((((.((.(((....)))...)).))))))))))).))))).))))))))))))...))))))).....(.(((........))).)... (-67.30)
+>cfa-mir-8862 MI0027955
+CCGCCUCCCGCUUCAGCCUCCCUGCACCCCGGGCACAGCUUGCUGAGCGUUGGCCGGUGGCCCUCCAGUCACCAGAGGCCACCAGAGGCCAGGCCUGGGCAGUGCUCCCAGGGGCUCCUGAUGUCCACAGCGGGAGGAGCCCCCC
+...(((((((((...((.((...((.(((.(((...((((((((.((..(((((((((((((((.........)).)))))))...))))))..)).))))).)))))).)))))....)).))....)))))))))........ (-69.30)
+>cfa-mir-8863 MI0027956
+GGGAUGUGCAGCCUGCACUGUAGCCUCCAGACCACCUGGGAGUUGGAGCGCAGACCAAAGCCCGAGCUCUCAGUGGCUGCGGGGGGCAGGGGGGGGCAGGAGUGCCCACAGC
+(((...(.(.((((.(.((((..(((((((.((((.((((((((((.((..........)))).))))))))))))))).)))).))))..).)))).).)...)))..... (-51.50)
+>cfa-mir-8864-1 MI0027957
+GGAAUGAGAUAGGGGCCCCUGGAUGGCUGAGUCAGUUGGCCUCUUCUGACCUCCUCUCAGGGUCAUGAUCUCUGGGUCCUGGAGCUUAGCCCCUGGUGAGGCUCCCUGCUCAG
+....((((.(((((((((((((..(((((((((((..(((((..((((((((.......)))))).)).....))))))))..)))))))).)))).).))).))))))))). (-47.60)
+>cfa-mir-8865 MI0027958
+GCCCGCCGGGAGGGGAAGGGAGGGGGUGUCGUCGGCGACGACGGCGUGUCGUGGGGGGGGAGACGGGCCCCGCGCCCGCCUCCCUUUCUCGGACGUCGCCGUCCCGGCCCCCCCCCCACCGUGUCCCUUCCGGGGGGGGUCC
+.(((.((((((((((.(.((.(((((.(..(((((....(((((((((((..((((((((((.(((((.....))))).))))))))))..)))).))))))))))))..).))))).)).).)))))))))).)))..... (-96.90)
+>cfa-mir-8866 MI0027959
+CAAACCCAUAGCCUCCUCCUAUUCCAUGAUUCGGGAGGCUGGGACCCUUCCCCAGAAGCUACCCCUGGACAGCUAUCCAGCUGUGAAUUCUGGGCUCACCUCUUAACUCGUGGGGGCCUGGAGCAAGCUGGUUCC
+..((((...(((...((((..((((((((...((((((.((((.......(((((((..(((..(((((......)))))..)))..)))))))))))))))))...))))))))....))))...))))))).. (-49.90)
+>cfa-mir-8867 MI0027960
+UCUGAAGCGUGCACAUCUUGUUUCCUAGGCCCACUGUGAUUUGCUCAGAGAGAGUUAGGGAGAAUGUUGGAAGCACGUUACUUAAUUCUCAGGAGUGAAACGAGAAGUAUCUUGGAGGAGGGAGACAGCCAGCCAGAGCUU
+((((..((..((...((((.(((((((((...(((.((.(((((((...((((((((((...(((((.(....)))))).))))))))))..))))))).))...)))..))))).)))).))))..))..)))))).... (-37.80)
+>cfa-mir-8868 MI0027961
+CCUGAGUCGGAUGUAUCUUAGGACAGAGCCCUCUGUGCUGCCCUGUGCUGUAGAAGCUUCCCUGCGGGGGAAGAGGGCUCCCUGCGGAAUAGGCUUGUCAGGAGCAGCUCCCAGGGCAGCAAGGGGUUGAUUUCACACUCAGCCU
+((((((..........))))))(((((....)))))(((((((((.((((((.((((((..(((((((((........)))))))))...)))))).).....)))))...)))))))))...(((((((........))))))) (-64.20)
+>cfa-mir-8869 MI0027962
+CAGGGACAGUGGGGGAGCAGGAGAAAGAGUAGAAACAUGUCUAUAGGAUUGGUCCCAAAGGGGCAGUACUUAGUUCUGCUUUCCUGUUUUUGCAUUUUAUUGUUUCCUUAGGAUA
+.((((((((((.((((((((((....((((((((......(((.((.((((.(((....))).)))).))))))))))))))))))))))).))).....)).)))))....... (-33.90)
+>cfa-mir-8870 MI0027963
+CUGACUGUCAUGGAUGCGAUUCGAAGCUGUGGGUUCCUGGCGUCGAGCGUGGGCUGGUCCCGCCUCUGGACCUGCCUCUGCAACCCCAUGGUCCCCACUUUGCAGCCAGACGGCAAGAGCCUCAGAUCA
+((((..(((.(((.(((((.........(((((..(((((.((...(((.((((.(((((.......))))).)))).))).)).))).))..))))).))))).))))))(((....))))))).... (-49.60)
+>cfa-mir-8871 MI0027964
+GCGAGUGUGGCAGGUUGAGGAUGUACUGCCAAAAGUGACCUAAUGCAUGUUGGUCUGCUGCCUACAUAUUCUAGGCUGCCAUGGGCAGUGGUCUGACGCCCACUUAGGGUCUUUUUGGGGGGCAUCUGUCUAAACCUGAAUCUUC
+..(((.....((((((..((((((.((.(((((((.(((((((((..((((((.((((((((((.................)))))))))).))))))..)).))).))))))))))).)))))))).....))))))...))). (-51.30)
+>cfa-mir-8872 MI0027965
+GGCGGCGCCGCGUUAGCUGGUUCUGGGUUGUGGCGUCCGAGGAGCCGCGACGGUUUCUGCCCUCGGGCCGGCAACGCUUGACUGGCCCCUGCGGCGGCCCGUAGC
+((.(.(((((((...(((((((..(.(((((.(.(((((((((((((...))))).....))))))))).))))).)..)))))))...))))))).)))..... (-57.20)
+>cfa-mir-2387 MI0027966
+CGGGGAGCACGGGGGCGAGAGGCCGGCCAGGCGGAGCGUGGAGGGCCUGGAAGGCCUGGCUUUGCAGCGUGUUCUGGACUCUGCAGACCCGGCCUUGGCAAGCUCUUCCGCUGACGUCCCCGCGGCCGGAGCCCCAGCGCCCC
+.((((.((...(((((....(((((....((((.((((.(((((((.((.((((((.((.(((((((.((.......)).))))))))).))))))..)).)))))))))))..))))....)))))...))))).)).)))) (-81.40)
+>cfa-mir-8799e-1 MI0027967
+CCUGGCCUCUGCCUGUCCCGGGGGGAAAUCGGAUCCUGGGCUGUGUCCGCCGGCGCCCUGGGCUCCUAGGCCUGCGCUGUUGGAAUCGCGCUCCUGGCCGUGCAGCCCCCUCCGUGGAGCCACGCCCGAGCCC
+...(((.((.((.((((((((((((....(((..((.((((.(((((((.((((((...(((((....))))))))))).))))..))))).)).))))).......))))))).)))..)).))..))))). (-55.80)
+>cfa-mir-8799f MI0027968
+GCCUGUCCUGGGGGGUGCGCUGGAUCUUGGACUGUGCCCCCAGCACCCUGUGCUCCCGGGCCUGUGCUGUUGGAAUCGUAGUCCCGGCCACACAGCUCCCUCUGCCCACAGCC
+..((((...((((((.((..((...((.((((((((.((.((((((((((......))))...))))))..))...)))))))).))...))..)).))))))....)))).. (-40.30)
+>cfa-mir-8873a MI0027969
+CUGUGCUGCUGGAAUCGUGUUUCCGGGGCCAUGGCUCCUGAAGGCAGUGGGGUGUAGCCUCCACUCCUGGAGCUGCCGCCUAACCCACUGGCUUCUCCCUGAGGCCCUGCCAGGUGAGUGCUCCAGCCCUU
+.......((((((.((((.(...(((((((.(((.....((((.((((((((((((((.((((....)))))))).)))....))))))).))))...))).)))))))..).))))....)))))).... (-52.90)
+>cfa-mir-8874 MI0027970
+UCUUAGUAUCUGUGUGACUGCACUUCUCUGAGCCUCCCUUUCCACAUCUGUGCAGUGGGGCUGUGGGGAGGGCUCAAGGAAGCACUGGGGGUCGGAGGUCAGC
+.....(.((((.((...((.(((((((.(((((((((((((((((.........))))))....))))).)))))).)))))...)).))..)).)))))... (-36.40)
+>cfa-mir-8875 MI0027971
+AAAAAAAAAAAAAAAGGCCCCAGGCCUUGCGCUCCCGGCCUGCUGUAGCGGAACCCGGGGCGGGCGUUGCCUAGAAACGCAUCAUUGUCUUUGGGUUCUUAGCCUUGCGCAGGCAGCAGUUCUGGGACACUUGGCGGGGUAGUCC
+................(((((..(((..(.(.((((((.(((((((.(((((((((((((((((((((.......)))))....))))).)))))))).........)))..)))))))..))))))).)..))))))))..... (-58.20)
+>cfa-mir-8876 MI0027972
+GGCAGCCGCGGGGUCGGUGGCCCUUAGCGAGGCCUGCAGUGGCCAAGUGGGAGGCACCCCGCUGAUUGGGAGCUGCCUCUGGCUUGGCCUGCAGGUGUGCUGGACAGUGCCACAGGUGACUCUCUGACA
+..(((....((((((((((((.((((((.(.(((((((..((((((((.((((((((((((.....)))).).))))))).))))))))))))))).)))))...)).)))))...))))))))))... (-69.50)
+>cfa-mir-8877 MI0027973
+GCCUGUGAGCCCCUCUUGCCUCGCCUCCUCGCCCACCAUGCUGUCGUGUUCGUGGCCGUGGUGUCGGCUGCUGCAGGGGGUGACGGCCUGCCGGCAGGGGGCGCAGUGUGGGAUCCAACGGGAAGGGCC
+((((.....(((.((((((((((((((((.(((...((.((((((((.((((((((((......)))))))....))).)))))))).))..))))))))))).)).))))))......)))..)))). (-56.70)
+>cfa-mir-8878 MI0027974
+UUGGGUCCCCAGGGACUUAGAGUCUUCGUGACGGUGACCAGACCUUGCAGAACCGCUCCGAGGCCCUGAGGUGGCCUGUCAUCAGCCUGGACUUGUCUUCCUCUCUGUGGGGAUG
+....(((((((((((....((((((..((((((((.(((((.(((((.((.....)).)))))..))..))).))).)))))......))))))....)))).....))))))). (-40.60)
+>cfa-mir-8879 MI0027975
+GACUUGAUCCCAGGACCCCGGGAGCACGACCUGAGCCAAAGGCAGACCCAACCACUGAGGCACCCAGGCAUCCCUAGCUACUCAUUCCUCUGUCUUGGGCUUGUGCCUCCCCACAUGCAGCAUCCUGGCCCCACCAAGGUA
+..((((...((((((....((((((((.....(((((.((((((((.........((((....(.(((....))).)...))))....)))))))).)))))))).)))))...........))))))......))))... (-39.10)
+>cfa-mir-8799e-2 MI0027976
+CCUGGCCUCUGCCUGUCCCGGGGGGAAAUCGGAUCCUGGGCUGUGUCCGCCGGCGCCCUGGGCUCCUAGGCCUGCGCUGUUGGAAUCGCGCUCCUGGCCGUGCAGCCCCCUCCGUGGAGCCACGCCCGAGCCC
+...(((.((.((.((((((((((((....(((..((.((((.(((((((.((((((...(((((....))))))))))).))))..))))).)).))))).......))))))).)))..)).))..))))). (-55.80)
+>cfa-mir-8880 MI0027977
+UCUGGGAUGGGGUUCAGGGGCUGCGUGUUUCUCUAUCGGCCAUGGACUCUGCCCUGUUUCUGGAAGGACAUGGGGCAAGUCAGCCCUGUGGACAAACAUUUCUCCUUAUCCUGUCCCAGUGCCAGCUCCACGG
+.((((((((((((..(((((....((((((.(((((.(((....((((.((((((((.(((....))).)))))))))))).)))..))))).))))))..))))).)))))))))))).............. (-54.80)
+>cfa-mir-8881 MI0027978
+AUGGCUUUGUGUUUGGACCUGCCCUAGGUAUUUGAGGUAGGGGUCUGACCUGUGUACUGCUCAUAACUGGGCCUGUCAUUUGUUUUCUCUGGUUCUGUACCUGUGAUUGGUUUCAAAGAUAGAGCUGGUAAGUUUCUGUUC
+..((((((((.((((((((...(.(((((((..(((.((((((...(((..(((.((.(((((....)))))..)))))..))).)))))).))).))))))).)...)).)))))).))))))))............... (-44.00)
+>cfa-mir-7180 MI0027979
+AGGCUGAGGAUUGGUGGUCUCAGGGAGUGUACUUCCUGGGGCCUCUGGGCAUAUAAUUCCUGUGGCCUCUGGGUGUGUACCCUCUGUGGCUUCCAGGUUCAUG
+....((((..((((.((((.(((((.((((((.(((.((((((.(.(((........))).).)))))).))).)))))).))))).)))).)))).)))).. (-43.00)
+>cfa-mir-1185 MI0027980
+GGUCCUCACUGGAGCUGCUCUUUGGUACUUGAAGAGAGGAUACCCUUUGUAUGUUCACUUUAUUAAUGGCGAAUAUACAGGGGGAGACUCUUAUUUGCGUAUCAAACUCUGACCGGGAAGGCGCUCGGA
+(.(((.....))).).....((((((((.(((((((((..(.((((((((((((((.((........)).)))))))))))))))..))))).)))).))))))))......(((((......))))). (-46.90)
+>cfa-mir-8882 MI0027981
+CUGUCGCUCUGUUUUCUGGGCGCUUGUACCCUACGGCCUCUCCGAGCUCUGACUCCCUUCCCUGGGAAAGAGCACCAGGAACAGGGUAGCAGGUUUGAGGUACCCGGGCUGGACUCGUGGAGGUGCUCAGCAAACUGAGGAAGGG
+((.((.(((.((((.((((((((((.(((....((((((((.(((((.(((.((((((..(((((.........)))))...)))).)))))))))).)).....)))))).....))).)))))))))).)))).))))).)). (-60.80)
+>cfa-mir-8883 MI0027982
+GAAAGGACCGGAGUUGCUGAGGAGGAAUGCCUCUGGAGAUUCUGGGUGAGGAUUCGCAGGACUUUUGUGGCAUGUGUUGACAGGAGGGCCUCGGAGGUUUGAGUCACUUCACCUGAACGAGCCUGCGUCUCUGCUGAGCCCCGCC
+.......((((((((.((..(((((....))))))).))))))))(((.((.((((((((.((((((((((....))).))))))).....((.(((((((..(((.......))).))))))).))..))))).))))).))). (-46.10)
+>cfa-mir-8884 MI0027983
+UGAACUGAUGGACACACCUGGGGUCAUCCCUGAGCGGAGCCAGGUCCAUCAAAACCAGGAUGUUGACAGUGGUUUGAUGGAUUUGCUUAGCACCCGAGGUGGCCCCUUGCCUCUUUGUUUAAAAAAAUG
+(((((....(((..((...((((((((((....((.((((.((((((((((((.(((............))))))))))))))))))).))....).))))))))).))..)))..)))))........ (-44.20)
+>cfa-mir-889 MI0027984
+CAAGCUCUUCUGGAUGGUGCAGUUCUUUGGUGCUUAAAGAAUGGUUGUCCGUAGUAUGGUCUCUAUAUUCAUGGUGAUUAAUAUCGGACAACCAUUGUUUUAGUAUCCAACUUUGCUUCAAAAGUUCUCCCAAGCACGC
+...(((.....((((..((.(((...((((((((.(((.((((((((((((..((.(((((.((((....)))).)))))))..)))))))))))).))).)))).))))....))).))...)))).....))).... (-43.10)
+>cfa-mir-3958 MI0027985
+GAGGACGAGCGUGGUCACAGAAGCUGGUCUGAGAUGUUCGAAAGGAGGUUGUCCGUGAUGUAUUUGCUUUGUUUAUGGCAGAUAUUGCACGGUUGAUCUCUUUUCAUCAUCAAAUGCCUUCUUGAAGGACCCGCGGCACGU
+........(((.((((....(((..(((.(..((((...(((((((((((..(((((..(((((((((........)))))))))..)))))..)))))))))))..))))..).)))..)))....)))))))....... (-54.90)
+>cfa-mir-8841-2 MI0027986
+UUGGACUUCAGGGGUACUUGAAGGUUCAGCUGGGGCCUCCUGUGGGCUUACAGAAUUUCCAGCUUCCUUAAGGAUCUCUGGAGGCUGAGAUAGAG
+((((.((((((((((.(((.((((...((((((((....(((((....)))))...)))))))).)))).))))))))))))).))))....... (-35.10)
+>cfa-mir-8885 MI0027987
+CUUUUAGUCUGUUCUCUGGGGAGGCGGUAAGGGGCCGUGGAGCUGGCCUCGGCACCGGGAGAGGCUGGACUUCCUGUCUCUCUGUGCUGAAUGGCUGCGAUGGCGCCCGCUCUCACUGACGCAGCAGCUGAAGCACACCAUAUCC
+.((((((.(((((...(.(((((((((....(.(((((.((((((...(((((((..((((((((.((....)).))))))))))))))).))))).).))))).))))).))).)).)...)))))))))))............ (-60.90)
+>cfa-mir-8886 MI0027988
+CACAGCUACGGUUCCAGGAGCUUGAGGUGGAAGAUGCCCAUCCCAGGACAUGAGUGUAGGACACAGACCAGUGCUGUCCAAGCACGUAUUCUGAUGGGCCACAGGGCGUUCUCCACAACUCUGUUCAUAUACAUAAAGAUGGCCA
+....(((((........((((..((((((((.(((((((..(((((((.(((.((((.(((((((......)).)))))..)))).))))))..)))).....))))))).)))))..))).))))...........).)))).. (-45.50)
+>cfa-mir-8887 MI0027989
+CUUGGAAGCUCUUGGACCAGAGGGUGCUUGUCCUGCCAUGGCAUUCCGGAGGACUGAGGGCAUGUCCAUGAUCCAGGCACUGGCCAUGACGGUGGCCGAGAUCCCUGUGUUCCUGUA
+.............(((.((.((((..(((((((((.((((((...(((((((((((....)).))))....))).)).....)))))).))).)).))))..)))).)).))).... (-42.40)
+>cfa-mir-8888 MI0027990
+GGCAGCCAGAGUCUGGCCUCCUGUAGCUGUUCCAUCAGUGGAUGCAGACUUAACCAGUGCCCAAUGCAUACUGGUUAAUUUCAACUCCACUGGUCACAGGGAAGGGAGACUUUGGUAGGAG
+....((((((((((..(((((.....((((...(((((((((((.(((.(((((((((((.....))..))))))))))))))..))))))))).)))))).))).))))))))))..... (-46.60)
+>cfa-mir-6516 MI0027991
+GGCCCAGUUCCCCCCGGGGUUUGGAUUUGCAGUAACAGGUGUGAACAUUCUAGCAGCAGUUUGAUGAUCAUGUAUGAUACUGCAAACAGGACCCGCGCGGAGGUCUGGCUUCCGC
+((.((((..((.((((((((((.(.(((((((((.((..(((((.((((..(((....))).)))).)))))..)).)))))))))).)))))).)).)).)).))))...)).. (-43.20)
+>cfa-mir-8889 MI0027992
+UCCUGACGUUGGGGCCUGAGAGGCAGUUCUGAGGACAGCAGACCUGACCUGGGCCUGCAGCUUAUGGGUUCCUGCGCUGGGUCCCAGCAGGUCAGCUGGACCCUGGCCUCUGGCCCCCUGAUGCCAGGU
+.((((.((((((((((..((((((......(.(..((((.((((((..(((((((..((((.((.((...)))).)))))).))))))))))).))))..).)..))))))))))))..)))).)))). (-64.80)
+>cfa-mir-8873b MI0027993
+GUCCGGGCCCUGCGCUGCUGGAAUUGUGCUCCCGGCCGCGGCUCCUGAAGGCAGCAGGUGCAGCCCCCUCCGCGUGGAGCUGCGACCUGAGCUGCUUCUGAGGCCCCACCAGGUGUGCGCUCCAGCCCUUUACCGCGCUUGCCCG
+...(((((...((((.((((((..(((((.((.((..(.((((.(.((((.(((((((((((((.((........)).))))).))))..)))))))).).)))))..)).)).))))).))))))........))))..))))) (-66.00)
+>cfa-let-7d MI0027994
+AAAUGGGUUCCUAGGAAGAGGUAGUAGGUUGCAUAGUUUUAGGGCAGGGAUUUUGCCCACAAGGAGGUAACUAUACGACCUGCUGCCUUUCUUAGGGCCUUAUUACUCCACGGUAACCUGCUCUU
+....((((.(((((((.((((((((((((((.((((((...((((((.....))))))..........)))))).)))))))))))))))))))))))))..(((((....)))))......... (-49.40)
+>cfa-mir-8890 MI0027995
+AACGUGAGCCGAAAUCAAGAGUUGGACGUUUAGCUGACUGAGCCACCUAGGUACCCCUUAAGAUUUUAUUUUUAGGGUGCUUGGGUGGCUCAGUCGGUUAAGUGUCUGCUUUCAGCUCAGGUCAUGAUCCCAGGG
+.((.(((((.((......((((.(((((((((((((((((((((((((((((((((..(((((......)))))))))))))))))))))))))))))))))))))))))))).))))).))............. (-70.60)
+>cfa-mir-8891 MI0027996
+UGGUUCGUGCCGCGGGCGCGCUCAUAAGGCCCCUCCUCCCUACCCAGUUUCGGGGUCGCCUGGUAAGGUAAAAUCCUUGAACCCACUCGUUCCUGUCGCUGGGAGGGCGUCCCUUUCGCCUGUCACAGCGUCGCCGUGGGACG
+.....(((.((((((..(((((....((((.....(.((((.((((((..(((((.((..((((((((......)))))...)))..)).)))))..)))))))))).)........)))).....)))))..)))))).))) (-61.90)
+>cfa-mir-8892 MI0027997
+GAUUCAAAGGUCAGCUCCAAGGUUCCGAACUGGGGCCCGGGAUGUGAGGGGUUUCAGAGCCUAAAUUCCCUAGUCUGUAGCCCCGGCCCCCGAAUCCCACCCGAGCGGGGCCUUCCUUUUCCCAA
+.....((((((((..(((..((((((.....))))))..)))..)))((((((.((((..(((.......))))))).))))))((((((....((......))..))))))..)))))...... (-46.30)
+>cfa-mir-769 MI0027998
+CAUCUGGGCUGACCUGGUGCUGAUUCCUGCGCUCUGACCUGAGACCUCUGGGUUCUGAGCUGUGAUGUUCCUUCCAAGCUGGGAUCUCUGGGGUCUUGGUUCAGGGUCGGGGCCUCUGGGUUAUGAGCACCAGCGAGGACA
+....((..((...((((((((.((.((((.((((((((((((((((((.(((.(((.((((..((.......))..)))).))).))).))))))))......))))))))))...))))..)).))))))))..))..)) (-62.30)
+>cfa-mir-8893 MI0027999
+AGGAGCUUGCAGCGGCACGCUGGGAACGGCUCUAAUGGAGAGGGGAGUGCGGUGCUCUGGUCCCCACACUGCAGCCUGGGCUCUGGUGCUGGCACACAGCCCCCGCCAACGCUUCAG
+.((((((((..((((...(((((...((((.((...((((...((..(((((((...(((...))))))))))..))...)))))).))))...).))))..))))))).))))).. (-44.10)
+>cfa-mir-8894 MI0028000
+GGGAGUGGGGGUGGGGGCUGCUGUCGCUGCUGGGAUCCGAAGCUUCUGAGGCUCUUGGCCGUCGGGGCACUGCGCGCAGUGGGAGCUUCCCCGUGGGGCUUCCUGGGCCUGCUGUAGCAGGAGGCCUCACCCACC
+......((((((((((.((.((((.((.((.(((.(((((((((((.(((((((((.((((.(((....))))).))...))))))))).....))))))))..)))))))).)).)))).)).)))))))).)) (-66.80)
+>cfa-mir-8864-4 MI0028001
+GGAAUGAGAUAGGGGCCCCUGGAUGGCUGAGUCAGUUGGCCUCUUCUGACCUCCUCUCAGGGUCAUGAUCUCUGGGUCCUGGAGCUUAGCCCCUGGUGAGGCUCCCUGCUCAG
+....((((.(((((((((((((..(((((((((((..(((((..((((((((.......)))))).)).....))))))))..)))))))).)))).).))).))))))))). (-47.60)
+>cfa-mir-8864-3 MI0028002
+GGAAUGAGAUAGGGGCCCCUGGAUGGCUGAGUCAGUUGGCCUCUUCUGACCUCCUUUCAGGGUCAUGAUCUCUGGGUCCUGGAGCUUAGCCCUUGGUGAGGCUCCCUGCUCAG
+....((((.(((((((((.(.((.(((((((((((..(((((..((((((((.......)))))).)).....))))))))..)))))))).)).).).))).))))))))). (-46.10)
+>cfa-mir-8813-2 MI0028003
+UCCCAGGGUGCUUUGCACAGACCCUGGUGACCUGAGGUUCCCCGGCUGUCACUCUGUCCCAGGCCCGUCCUGGCCCCAGGCACAGGCUGAGUCGCAGUAGAGUCUGUGGGGUCCUGACCCUGGCGUCUGGCCGCCCCUGGAAGGC
+..((((((.((...((.(((((((.((.(...(.(((..((((((((((.((((.......((((.((((((....)))).)).)))))))).)))))........))))).))).)))).)).))))))).))))))))..... (-61.00)
+>cfa-mir-8895 MI0028004
+UGAUUUUCAGGUGUGGGCACUUGGGGGAGCUGCUCAGCCCCCUGCCUGGUGCCGGGCUCAGUGAGUGAUGUUUAUCCUGUUUAUCUGGUGAGGGCACUGUGAGGCUCAGUGGGGGUUGUUUACCCCGUGAGGCCCAGGGAGGAAC
+.........((..(((((((((....))).))))))..))(((.(((((.(((.(.((((...((((.(.((((.((.........)))))).))))).)))).)(((.(((((........)))))))))))))))).)))... (-56.00)
+>cfa-mir-8896 MI0028005
+CUCCCCGUGUUCGCAGGAAGGAAAUUUCGGGCAAGCUGGGAGGCAGAGUGCUCUUGCUUCUGCCCAUUCUGAGAGUGCUCCUUUUGCAGCCCCUGACUUGCCUCACAGGGC
+..(((.(((...(((((.(((.......(((((..((.((((((((((.((....)))))))))...))).))..)))))...........)))..)))))..))).))). (-39.40)
+>cfa-mir-8897 MI0028006
+GGUGCUCAGCCACGCUACAAGAGGCGGGCCUAGUUUGCGGCAUCUAAUUGGCAGAGCGUUGGGCGAGCUUUGCUCGCUGAUUGGUCGAGGUAGCUGCCGGAAAGGGCCCAGCCUUGAGAUGGGAGAGCGGAGGCGUUCUGUGGGC
+.........((((.((((..(((((((((((..(((.(((((.(((.(((((....((.(.(((((((...))))))).).)))))))..))).))))).))))))))).)))))..).))).((((((....)))))))))).. (-62.20)
+>cfa-mir-449b MI0028007
+GCCAUGAAACGUAGCCGUGACCUGAGUCAGGUAGGCAGUGUAUUGUUAGCUGGCUGCUUUGGGUCAAUCUGGCAGCCACCACUACCCUGCCACUUGCUUCUGGACAAAUUCUUCUCAUUAACAGGCUGC
+..........((((((((((((.(((.(((((.(((((.(((.((...(.((((((((..((.....)).))))))))))).))).)))))))))).))).))...........)))).....)))))) (-40.80)
+>cfa-mir-8799g MI0028008
+UGGCCUCUGCCUGUCCGGGGGGGAGGCCGGAUCCUGGGCUGUGUCCCGGCGCCCUGUGCUCCUGACCUGCGCUGUUGGAUUCAUGCUCCCGGCCGCGCAGCCCCCUCCGGAGCCGCUGCCCGA
+.(((..(.((...((((((((((..(((((..((.((((((.((((((((((...((.......))..))))))..)))).)).)).)).))))).))..))))).))))))).)..)))... (-56.90)
+>cfa-mir-8898 MI0028009
+GUGGAGAGCAUGGUCACCUCUCGGUGACUUGAGAUAGGGUGCUGCUGGCCUGCCUUUUCCCCAGAGCUCCAGAUGGGCCUCAGGACAGUUGGUAGCAGCUCCCUACUGGUCCAGAGAGCCAGGCUGGCCGUGGUCCGGCCCCG
+((.(.((.((((((((((((((.(.((((..((.(((((.(((((((.(((((((....((((..........))))....))).)))..).))))))).)))))))))))).))))....)).)))))))).))).)).... (-61.60)
+>cfa-mir-8899 MI0028010
+GGGCGGGAUGGGGGGAUGUCAGUCACCCCUGUUGGGGUCCAUGCGUCUAGGACAGGCUGGAAAGGUCAUGGCUUGGGUGCCUGCACAGCACAGGGCUUACAGGGGAGCAGGGGUCCCGGGG
+............(((((.((.((..(((((((..((((((.((.(.((.(..(((((....(((.......)))....)))))..)))).))))))))))))))).)).)).))))).... (-45.50)
+>cfa-mir-8900 MI0028011
+AGGGUGGGUGAAACAGCCUUACGUCAGAAGAGGACCUGGCUAGGACUUUAAUGGCUGGAGAGAAGUCAGUGCCUGGCUUCAAUUCUUCAAGGCUUGGACAGAGGGACUCUUCUGUAGGGGUGCACACAGCUGCUGACUUUU
+..(((((.((...((.((((((...(((((((..(((..(((((.(((.......((((((((((((((...))))))))...))))))))))))))....)))..))))))))))))).))....)).)))))....... (-51.10)
+>cfa-mir-8901 MI0028012
+UCUGGUCACCACCUGGACCUCACCUGGUCUUGGUGAAUCUGGUCCCCACCUGGGCUUCACCCAGACCUGGUGACUGUGGUCCCCACCUGGGCCUCAA
+...((((........))))(((((.(((((.(((((....(((((......)))))))))).))))).))))).((.(((((......))))).)). (-42.50)
+>cfa-mir-8902 MI0028013
+ACCUUUUGCUUUUGACUUCACAUCCAUUUCUUUCACCUGGGGAAAAUUCUGGAGCCCCAGGAGAGGAAAUGGAAGUGAGGUGAGAGCAGCACCUCCAGUCUGUGU
+......(((((((.(((((((.(((((((((((..(((((((............))))))).))))))))))).))))))))))))))((((.........)))) (-46.00)
+>cfa-mir-1296 MI0028014
+UGAAAUCAGCGAAUAACCUACCUAACUGGAUUAGGGCCCUGGCUCCAUCUCCUUUAGGAAAACCUUCUGUGGGGAGUGGGGCUUUGACCCUAACCCAGCUGGGCUGUAACACUGCUGCAUUUUCU
+.((((((((((......(..((((.((((.((((((....(((((((.((((((..((((....))))..)))))))))))))....)))))).)))).))))..)......))))).))))).. (-50.30)
+>cfa-mir-8903 MI0028015
+CACACCAGAAUUACCUGGGGAGAUUAUUAAAAAUACAGAUUCUUGGGCCCCACCCCCGGAGACUGUGAAUCAGUAAGUAGAUCUGGGGUAGGGCCUGGGAAUUUGUAUUUUUAAACAACUAACUUCAGGUGAUUCUGAUGCCA
+..((.(((((((((((((((((....((((((((((((((((((((((((...(((((((.((((.....)))).......)))))))..))))))))))))))))))))))))....))..))))))))))))))).))... (-67.80)
+>cfa-mir-8908b MI0028016
+CUGUCCGCCAUGAACGAUGCUGUGUGCAGUGCUUUAUUCAGGGAGGUGCUAAUGACGUCACCUUAGAGUGAUUAGUUCCUGCCUGGAUACAGGAAUGCUCACAAAGAACGGCUUUUGCAGU
+((((..(((...........((((.(((.(.((.((((((((.(((.((((((.((.((......)))).)))))).))).)))))))).)).).))).))))......)))....)))). (-41.40)
+>cfa-mir-507b MI0028017
+UUAACCAAACUUUGUGCAGUGCCCCAUUCAAAAAGGUGCCAUUCAGGUAUACUAAAAUAUGAUUGGCACUUUUUUGAGUGUGGUAAUUCACAACAUGUACAACCACA
+...........(((((...((((.(((((((((((((((((.(((.((........)).))).))))))))))))))))).))))...))))).............. (-37.60)
+>cfa-mir-8904a MI0028018
+CCUCAGGCUUCCUGGGACACUAACAGAGCAACUGCGCCCGGGGAGAGUGCGCCGAGCUCCCUAAAGGGCUGCAGCGCAUGGCGGGGCCUGGGAGCAGCU
+.((((((...))))))...............((((.((((((..(.((((((.((((((......))))).).))))))..)....)))))).)))).. (-41.80)
+>cfa-mir-8908f MI0028019
+GGUUGGUUCUGUUUGUGGAUCCAGACUGUGUGCAGUGCCCUACUCAGAAAGGUGGUCAUCACAUAGACUCACUUGUAGUGACUGCAAGCCUGAGUAGAGCAAAGCUCACCAGCACAACAGAUGCACCGGCCUAUGGGACUGUGAU
+(((((((((((((.(((........(((((.((..(((.((((((((....((((((((.(((..........))).))))))))....)))))))).)))..)).)).))))))))))))...))))))).............. (-52.10)
+>cfa-mir-508a MI0028020
+CUGAGUGUAGUGCUCUACUUGAGAGGGUGACAUUCAUAGAUACUAGAACAUGACUGUCACCUUUUUUGAGUACAGUAAUGCACAUUAUAUACAAU
+....(((((.((((.(((((((((((((((((.((((............)))).))))))).)))))))))).)))).)))))............ (-31.40)
+>cfa-mir-8908d-2 MI0028021
+UCUGCAGGCCACGCUGAGUUUGGGGCCCUACCCAGAAAGGUGCUGAUGAGGCAGGAUACAGAUUAUUAGCGCCUGACUGAGUGGGGUCCCAAUCAGUAACAGAACUGCCCGUG
+...((((..(..(((((..((((((((((((.(((..((((((((((((....(....)...))))))))))))..))).)))))))))))))))))....)..))))..... (-53.90)
+>cfa-mir-8908d-3 MI0028022
+CCUCCUCUGCAGGCCACGCUGAGUUUGGGGCCCUACCCAGAAAGGUGCUGAUAAGGCAGGAUACAGAUUAUUAGCGCCUGACUGAGUGGGGUCCCGAUCAGUAAUAUAACUACCUGUGGCGAC
+............((((((((((..((((((((((((.(((..((((((((((((....(....)...))))))))))))..))).))))))))))))))))).............)))))... (-55.10)
+>cfa-mir-2483 MI0028023
+GUCUCUAUGGCUCUCUCUCAGAUAUUUGAGUGAAAAGUUCAGUCAACCAUCCAGCUGUUUGAGUUGAUGCAAGCAAACAUCUGGUUGGUUGAGAGAAUUUUUUACUUAGUCUCUGGAUGUUUGGAGUCAUUUAACAGGC
+((((..(((((((((((.((((...(((((((((((((((..(((((((.((((.((((((..(((...))).)))))).)))).)))))))..)))))))))))))))..)))))).)...)))))))).....)))) (-54.30)
+>cfa-mir-506 MI0028024
+GCCUGCUGCCUUCGGCUUAUCUGUGUUCAGUGCCCUACUCAGGGAGGCGUCAUUCACAUAAGUUGAUAUAUGAAUGGCACCUUUUUGAGUAGGGUAAUGUACAAUGAGGACAACAUUUGUGGUGGCAUUGGCAAU
+((((((((((.....(((((.((((..((.(((((((((((((((((.((((((((.(((......))).)))))))).))))))))))))))))).))))))))))).((((...)))))))))))..)))... (-58.00)
+>cfa-mir-1468 MI0028025
+AGAGGUGGGUGGUUUCUCCGUUUGCCUGUUUUGCUGAUGUUCUUUUGACUCAUUCUCAGAAAAACAAGCAAAUGGAAAAUUCAUCCAUCAA
+...(((((((((.((.(((((((((.((((((.((((((.((....))..))...)))).)))))).))))))))).)).))))))))).. (-35.70)
+>cfa-mir-8904b MI0028026
+GAUGCCCUAGGGCUCCCCGGGACACUAACAGCACCUGCGCCCCGGGGAGAGUGCGCCGAGCUCCCUAAGGGCUGCAGCGCGCAUGGCUGGACCGGGAGCAGCUCGGAGGGGCUCG
+((.(((((.(((((((((((..(((((...((.(((((((((.((((((..((...))..))))))..)))).)))).).)).))).))..))))).).)))))...))))))). (-59.30)
+>cfa-mir-508b MI0028027
+CUGAGUGUAGUGCUCUACUUGAGAGGGUGACAUUCACAGAUACUGGACAUGACUGUCACCUUUUUUGAGUACAGUAAUGCACA
+....(((((.((((.(((((((((((((((((.((((((...)))....))).))))))).)))))))))).)))).))))). (-31.40)
+>cfa-mir-8908e MI0028028
+UGGGCAGGCCACACCGGGUUCUGUGCUGUGUGUAGUGCCCUGCAUAGGAAGGUCCUGAUUACCAGUAUGAUGUGUAACAGUGCCUGCCUGGGUAGAGUAAUGCUCCACAAGAACAUCUUUCCAGUGGGCCCUGUGUCUUAA
+.(((((((((.(((.(((...(((.(((((.(((.(((.((((.((((.((((.(((.((((((......)).))))))).)))).)))).)))).))).)))..))).)).)))....))).)))))))...)))))... (-50.90)
+>cfa-mir-2114 MI0028029
+AACCCUCGGGCCAAAGGACAUGCCACGGCCUCCAGGCUUCUAGUCCCUUCCUUGAAGGAUCGGCAAGUCACACGCAGAGCCUCAAGCAAGGGACUUCCAGCUGGUGGCUUCCAGCAGCUUCCUGCUCCUGAACCACCAUCGUC
+.....(((((....((((..(((...((((.((((.((...((((((((.(((((.((.((.((.........)).)).))))))).))))))))...)))))).))))....)))...))))...)))))............ (-53.00)
+>cfa-mir-8908a-1 MI0028030
+CCCUGAACAACAUCCGUCUUCCCGGGUGAUGUGUGCAGUGCUCUGCUGAGGAAGGUGCUCAUUGCAUUCAUUCAUAAGAGUAAUUAGGACCUCCCUGAGCGGAGUAAUGCUCACCUGAAGGACGUCUGCGUUGUCUUACGGAGCG
+((.((((((((.(.((((((..(((((((.....(((.(((((((((.(((.((((.((.(((((..((........))))))).)).)))).))).))))))))).)))))))))).))))))...).))))).))).)).... (-57.50)
+>cfa-mir-8834a-2 MI0028031
+AGGAGCUACAGCCCUAGUGGCGGGGCCAGCUCUGGAAACCUGGAUUCAGCUCUGGCAGGAACUCCGGAGCUCUCCGUCUGCCGGGCCUGGAGGCUCCGGGGCGGGGCCGCUGAUCUGCUCAGCUGGGGCAGGAGCGUCUUU
+(((.(((...((((((((((((((..(((((((((....)))))(((((.(((((((((.....((((....))))))))))))).)))))(((((((...))))))))))).))))))..))))))))...))).))).. (-69.30)
+>cfa-mir-8791b MI0028032
+CCUGAUCUGUUCAGCUCGGGGCCGCCUGGAGGCUGGGGUGUUCUUGCUGUCCUGUGCCCUCCUGGCUUCUGCCUGUUCCAGGGGGAGCGCCGGAUAUUGGGCUGUUUCCGGCACCCUGUGCCCCCGGGCCUGCACUGUUGGAAUC
+.(((((..((.((((((((((.(((..((..(((((((.((((....(((((.((((((((((((...(.....)..)))))))).)))).)))))..))))...)))))))..)).))).))))))).))).)).))))).... (-67.30)
+>cfa-mir-8834b MI0028033
+ACACUACUGGCGGCAGCCAGCUCUCCAGCUCUGGAGUCAGCUCCCGCAGUAACUACCGAAGCUUCCAGUUCGCGCUGGCCUGGAUGCUCAGUCAGCGGGGGUGCUGAACUGCACAGCUUGGGGGCACCUGGUGGCAGGAGCGUCC
+......(((((....)))))..((((((((.((.(((((((((((((....(((...((.((.(((((...((....))))))).)))))))..))))))..)))).))).)).))).)))))((.((((....)))).)).... (-60.80)
+>cfa-mir-8908a-2 MI0028034
+CCCUGGACAACAUCCGUCUUCCCGCGUAACGUGUGUAGUGCUCUGCUGAGGAAGGUGCUGGUUGCAUUCAUUCAUAAGAGUAAUUAGGACCUCCCUGAGCGGAGUAAUGCUCACCUGAAGGACGUCUGCAGUGUCAUCCGGAGCG
+..(((((..((((.((((((.(.(......(((.(((.(((((((((.(((.((((.((((((((..((........)))))))))).)))).))).))))))))).))).)))).).))))))......))))..))))).... (-53.50)
+>cfa-mir-507a MI0028035
+GGUUUGUGCGGGAUCACCACCUUUACCUAUGGUGUGUGCAGUGCUCCACUUCAGGAAGUGCCAUCCAUGUAGCUAAAACCUAUGAUUGGCACCUCUUUGAGUGUAGCAAUGUGCAACAGGUACAACAUCAGUGCUGGCCCUGAAA
+(((((.....)))))..((((.........))))((((((.((((.(((((.((((.((((((..((((...........))))..)))))).)))).))))).)))).)))))).((((..((.((....)).))..))))... (-46.10)
+>cfa-mir-8908d-1 MI0028036
+CUGGCCAGAUCCUCUCCUGCGGGCCACGCUGAGUUUAGGGCCCUACCCAGAAAGGUGCUGAUGAGGCAGGAUACAGAUUAUUAGCGCCUGACUGAGUGGGGUCCCAAUCAGUAACAGAACUGCCCGUGGCGUCCUUCAGCUCA
+..(((..((....(.((.((((((...(((((.....(((((((((.(((..((((((((((((....(....)...))))))))))))..))).)))))))))...))))).........)))))))).)....)).))).. (-56.10)
+>cfa-mir-8908c MI0028037
+UGUGUGCAGUGCCCUGCUCAGGAUGGCGCUGAUUACAUACUCUAGGAGUGAUUAGCAUCUGCCUGGGCCGAGUGAUGCUCACU
+.(((.(((..((.(.(((((((..((.(((((((((...........))))))))).))..))))))).).))..))).))). (-33.70)
+>cfa-mir-8908a-3 MI0028038
+CCCUGAACAAUAUCCGUCUUCCCGCGUAACGUGUGUAGUGCUCUGCUGAGGAAGGUGCUCAUUGCAUUCAUUCAUAAGAGUAAUUAGGACCUCCCUGAGCGGAGUAAUGCUCACCUGAAGUACGUCUGCGGUGUCUUCUGGAGCG
+.((.(((..(((.((((......(((((..(((.(((.(((((((((.(((.((((.((.(((((..((........))))))).)).)))).))).))))))))).))).)))......)))))..))))))).))).)).... (-48.40)
+>cfa-mir-8908a-4 MI0028039
+UGGACAACAUCCGUCUUCCCACAUACUGUGUGCAGUGCUCUGCUGAGGAAGGUGCUCAUUGCAUUCAUUUAUAAGAGUAAUUAGGACCUCCCUGAGCGGAGUAAUGCUCACUUAAAGUACGUCUGCGGUGUCUUCCAGAGCGGUG
+((((..(((.((((......((.(((((((.(((.(((((((((.(((.((((.((.(((((..((........))))))).)).)))).))).))))))))).))).)))....)))).))..)))))))..))))........ (-53.00)
+>cfa-mir-8864-2 MI0028040
+AGGGAAGUUAUUAAAGGAAUGAGAUAGGGGCCCCUGGAUGGCUGAGUCAGUUGGCCUCUUCUGACCUCCUCUCAGGGUCAUGAUCUCUGGGUCGUGGGACUUAGCCCCUGGUGAGGCUCCCUGCUCAGUGGGGAGUCUGCUUU
+...(((((...........((((.(((((((((((((..(((((((((...((((((..((((((((.......)))))).)).....))))))...))))))))).)))).).))).)))))))))...........))))) (-54.90)
+>cfa-mir-8906 MI0028041
+CCGCAUGGUGAGGCGCGUGUGCCUCUGGGACCCCCUCCUCUGCAUUUGGCUGGGACGGCAUUUUUUCAUCCCUGGCCGUCCCGGGCAUUGUCGGGAUGGCGUUAGUGGGGCGGGAGGAAAUACGCUUUGUCGCGU
+.......((((.(.((((((.(((((.(..((((((((((((((..((.((((((((((...............)))))))))).)).)))..))).))....)).))))).)))))..))))))..).)))).. (-56.60)
+>cfa-mir-8907 MI0028042
+GUCAAAGAGCAUUCCAGGUGGAGGGAAUAGAGAGGUGCCGAUUCUGAAGUGGGAAGAUGUUGGGGUGUUGGCUUCACUGAGCAGGGCCACUGUGGCUGUGACCCUUGCAUGAGGGAACGAGGGCUUUAU
+.....(((((.(((..(((((((........((.((.((((((((.........))).))))).)).))..)))))))...((.(((((...))))).)).(((((....)))))...))).))))).. (-33.00)
+>cfa-mir-8905 MI0028043
+UGUCUCUCUCUGGCCGUCCGGGGCGACGAGAGAACUACCAUCCACAAAGAGGAUUCGGUCAGGCUUCGGGAGGGCUUGAUAGGAAAGUCCCGACGUGGAGGAGUCAGCUCGUGCAGGAGUUGAGGGCAGGAAUGGGAGGGUUCUG
+(((((((((((.(((......))).).))))))(((.((.(((((...(.((((((.(((((((((.....)))))))))..))..)))))...))))))))))((((((......))))))..))))(((((......))))). (-53.80)
